@@ -34,4 +34,4 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - .gitignore
-    - about.md
+    - readme.md

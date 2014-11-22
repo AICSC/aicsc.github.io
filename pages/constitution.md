@@ -16,7 +16,6 @@ We, the members of Artificial Intelligence Computer Science Club do hereby estab
 ## ARTICLE I. NAME
 
 Section 1.
-
 The name of the organization will be Artificial Intelligence Computer Science Club henceforth referred to as Artificial Intelligence Computer Science Club. This Organization is established for the expressed purpose of developing leadership skills as well as an awareness of social responsibilities to encourage students to participate in public affairs. This organization is an entity that is initiated and directed by a group of current BC students who share a common vision in promoting an extra-curricular or co-curricular mission that enriches campus or community life and personal development. Student Organizations must be registered with the Office of Student Life in accordance with these policies and procedures. Artificial Intelligence Computer Science Club understands and is committed to fulfilling its responsibilities of abiding by Student Government Association at Bakersfield College, Bakersfield College, Kern Community College District policies.
 
 
@@ -24,10 +23,10 @@ The name of the organization will be Artificial Intelligence Computer Science Cl
 
 ### (Mission Statement)
 
-Section 1. The purpose of the Artificial Intelligence Computer Science Club is to present the field of computer science to incoming and prospective students of Bakersfield College; to assist current students with computer coding and applications; to present current students with opportunities to meet and ask questions of alumni and other community members working in computer science industries.  
+Section 1.
+The purpose of the Artificial Intelligence Computer Science Club is to present the field of computer science to incoming and prospective students of Bakersfield College; to assist current students with computer coding and applications; to present current students with opportunities to meet and ask questions of alumni and other community members working in computer science industries.  
 
 Section 2.
-
 Hazing encompasses any action or activity that does not contribute to the positive development of a person; which inflicts or intends to cause physical or mental harm or anxieties; and/or which demeans, degrades, or disgraces any person regardless of location, intent, or consent of participants. Hazing can also be defined as any action or situation that intentionally or unintentionally endangers a student for admission to, or affiliation with, any Student Organization.
 
 In keeping with the commitment to a positive academic environment, the BC community is unconditionally opposed to any situation created intentionally to produce mental or physical discomfort, embarrassment, harassment, or ridicule. Respect and cooperation among peers within registered Student Organizations is a guaranteed right that all students possess, regardless of race, religion, gender, sex, sexual orientation, accessibility, or national origin.
@@ -38,7 +37,6 @@ In keeping with the commitment to a positive academic environment, the BC commun
 ### (Qualification for membership)
 
 Section 1.
-
 Memberships shall be open to all students at BC. Voting privileges shall be restricted to “regular” membership, which shall be available only to the BC students. All officers must be BC students.
 
 Active membership shall be limited to persons officially connected with Bakersfield College as registered students. Students enrolled in the spring semester as well as students enrolled in summer school are eligible for summer membership. Attendance of at least 75% of all meetings during a given semester. Active participation in all activities sponsored by Artificial Intelligence Computer Science Club unless the activity interferes with either scholastic or financial constraints.
@@ -46,11 +44,9 @@ Active membership shall be limited to persons officially connected with Bakersfi
 This organization shall meet twice a month on the 1st and 3rd Friday, beginning within two weeks of the start of the fall term and continuing throughout the year at the same regularity so long as this organization continues to remain registered under the registration policy and guidelines. The decision to require meetings during vacations period and summers will be made by the membership at the regular or called meeting.
 
 Section 2.
-
 Annual dues shall be set at $10.00 for each member. This fee may be waived at the discretion of the Faculty Advisor due to financial constraints. Unless dues are waived, members who fail to pay dues will not be qualified to run for officer positions or vote in elections, but will be allowed to participate in other club activities. No refunds of dues will be given for voluntary withdrawal of membership.
 
 Section 3.
-
 This organization complies with all federal laws, executive orders and state regulations pertaining thereto and does not discriminate on the basis of disability, race, color, religion, nation origin, age, sex, sexual orientation, or veteran status, except in the case of designated fraternal organizations which are exempted by federal law from Title IX Regulations concerning discrimination on the basis of sex.
 
 
@@ -59,7 +55,6 @@ This organization complies with all federal laws, executive orders and state reg
 ### (Duties)
 
 Section 1.
-
 Artificial Intelligence Computer Science Club will be governed by the following means:
 
 **President**: The President (or other designated officer) shall be a BC Student and shall provide guidance, direction and support for the organization in pursuit of its goals and objectives. The president shall also have the specific powers to call a general or special meeting and be responsible for the conduct of such meetings. An elected President will preside at all meetings. The President will maintain the power to appoint all committee chairpersons, shall present all motions to the body present and shall be present at 90% of the meetings.
@@ -80,7 +75,6 @@ Artificial Intelligence Computer Science Club will be governed by the following 
 ### (Processes)
 
 Section 1.
-
 **Meetings**: All meetings will occur on a twice monthly basis or other regular basis at a time selected and will follow the procedure set forth below:
 
  1. Attendance
@@ -119,7 +113,6 @@ Any officer in violation of the organization's purpose or constitution may be re
 ### (Budgets and Monies)
 
 Section 1.
-
 Artificial Intelligence Computer Science Club will finance the activities it engages in by the following means:
 
 Membership dues : $10.00 Annual
@@ -136,7 +129,6 @@ The members of the organization agree to contact the Office of Student Life to d
 ### ARTICLE VII. AMENDMENTS
 
 Section 1.
-
 The constitution is binding to all members of the Artificial Intelligence Computer Science Club. But the constitution is not binding unto itself.
 
 Amendments to the constitution may be proposed in writing by any voting member at any regular meeting. These amendments will be placed on the agenda for the next regular meeting.
@@ -155,7 +147,6 @@ Said amendments shall be submitted to the Office of Student Life.
 ## ARTICLE VIII. REGISTRATION RENEWAL
 
 Section 1.
-
 Artificial Intelligence Computer Science Club will apply to the Office of Student Life for registration on an annual basis prior to Labor Day. Active registered status commences when the Student Organization has completed the requirements for registration. This status continues until the first day of September of the each academic year.
 
 

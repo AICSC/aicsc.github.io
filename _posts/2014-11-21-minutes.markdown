@@ -1,5 +1,6 @@
 ---
 date:   2014-11-21 14:43:00-0800
+permalink: "2014/11/minutes.html"
 ---
 
 ## Opening

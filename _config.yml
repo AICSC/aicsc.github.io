@@ -13,7 +13,7 @@ encoding: "UTF-8"
 lang: en-US
 timezone: "America/Los_Angeles"
 lsi: false
-permalink: /:year/:month/:title.html
+permalink: /:year/:month/:day/:title.html
 sass:
     style: :compressed
 markdown: kramdown

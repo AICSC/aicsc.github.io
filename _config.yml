@@ -2,7 +2,7 @@
 title: Artificial Intelligence Computer Science Club
 email:
 description: > # this means to ignore newlines until "baseurl:"
-    Meetings are held the first and thrid Fridays of the month in room B11 at 9am
+  Meetings are held the first and thrid Fridays of the month in room B11 at 9am
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aicsc.github.io" # the base hostname & protocol for your site
 twitter_username:
@@ -15,18 +15,18 @@ timezone: "America/Los_Angeles"
 lsi: false
 permalink: /:year/:month/:day/:title.html
 sass:
-    style: compressed
+  style: compressed
 markdown: kramdown
 kramdown:
-    auto_ids: true
-    footnote_nr: 1
-    entity_output: as_char
-    toc_levels: 1..6
-    smart_quotes: lsquo,rsquo,ldquo,rdquo
-    use_coderay: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
 gems:
-    - jekyll-sass-converter
-    - jekyll-sitemap
+  - jekyll-sass-converter
+  - jekyll-sitemap
 defaults:
   -
     scope:
@@ -36,7 +36,7 @@ defaults:
       title: "Meeting Minutes"
 
 exclude:
-    - Gemfile
-    - Gemfile.lock
-    - .gitignore
-    - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - readme.md

@@ -1,0 +1,58 @@
+---
+---
+
+## Opening
+
+The regular meeting of the Artificial Intelligence Computer Science Club was called to order at 9:13 am on March 6, 2015 in B11, 1801 Panorama Dr, Bakersfield, CA 93305 by Chad Hidalgo.
+
+### Present
+
+ * Chad Hidalgo
+ * Patrick Hawks
+ * Brenda Corral
+ * Edgar Orozco
+ * Kozmik Moore
+ * Her Johnson
+ * Vananh Vo
+ * Gerardo Martinez
+ * Edgar Silva
+ * Bryson Zuspan
+
+### Approval of Agenda
+
+The agenda was unanimously approved as distributed.
+
+### Approval of Minutes
+
+The minutes of the previous meeting were unanimously approved as distributed.
+
+### Open Issues
+
+ * Discussed the progress of the flyers for Garden Fest. Vannah and Gerando commented that the flyers were completed.
+ * Update of the Marquee Project was given. Stewart Signs was consulted for the project. Discussed possibilities of how the club can fundraise
+
+
+## New Business
+
+ * Chad Hidalgo mentioned that as club President had put in a request for a grant of $200 to aid in purchasing club T-shirts.
+ * Pat Hawks gave a report on the information provided at the last ICC Meeting.
+   - Spring Dance
+   - Poster for each club with their mission statements
+   - Bin for each clubs
+   - Garden Fest
+ * Talked about maybe putting an Event Committee together for events.
+ * Vannah talked about a project proposed to her by her English professor. The project proposed is revamping the Habits of Mind app and make it more user-friendly. Club is to download the app and make noted on what could be improved. Develop a survey to hand out to students about what could be better with the app.
+ * Flyer will be sent to Brenda Corral who will then get them approved by SGA and distributed.
+ * Last meeting’s coding challenge submissions were reviewed on Github. Pat Hawks did a more in-depth review in club of his submissions written in Assembly Language and C++. Gerardo Martinez also gave an overview of his submission written as a Java program.
+
+## Agenda for Next Meeting
+
+ * Collect Annual Fees and issue receipts from those who have not already paid
+
+## Adjournment
+
+Meeting was adjourned at 10:57 AM by Chad Hidalgo. The next general meeting will be at 9:00 AM on April 3, 2015, in B11.
+
+Minutes submitted by: Brenda Corral
+
+Approved by: Chad Hidalgo

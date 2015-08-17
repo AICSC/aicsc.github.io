@@ -1,0 +1,138 @@
+---
+date:   2015-01-16 15:07:00-0800
+permalink: "2015/01/minutes.html"
+---
+
+## Opening
+
+The regular meeting of the Artificial Intelligence Computer Science Club was
+called to order at 1:33 pm on 11/21/2014 in Burger King, Columbus St.,
+Bakersfield, CA by Chad Hidalgo.
+
+### Present
+
+ * Chad Hidalgo
+ * Patrick Hawks
+ * Cesar Martinez
+ * Diego Diaz
+ * Peter Rodriguez
+ * Edgar Orozco
+ * Francisco Gallardo
+
+### Approval of Agenda
+
+The agenda was unanimously approved as distributed.
+
+### Approval of Minutes
+
+The minutes of the previous meeting were unanimously approved as distributed.
+
+### Open Issues
+
+As discussed previously, Patrick Hawks has started an interim web site for the
+club using github. The Constitution has been posted and a link has been made
+available on the Facebook Group page. The link is http://aicsc.github.io/ The
+Facebook Group page has been changed to the category of “closed” which will
+allow for BC students who use Facebook to find the group and see our activity.
+
+Chad spoke about the status of the proposed design for a club t-shirt. We still
+need to talk to Erin Miller regarding use of the Habits of Mind POSSIBLE
+acronym. We also discussed revising the premade logo to incorporate the design
+of the BC Renegades knight logo with a “computer head” and have zeros(0) and
+ones(1) on the sword. Chad stated he has a friend who can draw and will ask him
+to help us. We will likely need approval through SGA/Student Life to use the
+logo with our custom changes.
+
+## New Business
+
+We were delayed in starting the meeting today because we could not gain entry
+into B11 despite being on the Upcoming Events calendar on the BC Website. We
+discussed needing to communicate with Dr. Damania and Professor Mendoza in order
+to be sure we will be able to use the room as scheduled.
+
+Annual dues were collected in preparation for eligibility to vote at the next
+meeting. Those not present today or unable to pay today will have an opportunity
+to pay prior to passing out ballots at the February 6th meeting.
+
+We reminded Patrick to be prepared for his presentation on Github for the
+February 6th meeting. Everyone is looking forward to this presentation. We
+discussed having certificates of appreciation given to presenters so that they
+can use them for their portfolio.
+
+Chad Hidalgo announced his candidacy for President for the next year.
+Patrick Hawks nominated Chad for President and Peter Rodriguez seconded
+the motion. Chad accepts nomination and there were no further nominations for
+President.
+
+Patrick Hawks announced his candidacy for ICC Representative for the next year.
+Chad Hidalgo nominated Patrick for ICC Representative and Francisco Gallardo
+seconded the motion. Patrick accepts the nomination and there were no further
+nominations for ICC Representative.
+
+Motion from Diego Diaz to separate the position of Treasurer/Secretary was
+seconded by Patrick Hawks and presented for vote. Ayes carry and we will have a
+Treasurer and a Secretary for the next year.
+
+Diego Diaz announced his candidacy for Treasurer for the next year.
+Patrick Hawks nominated Diego for Treasurer and Peter Rodriguez seconded the
+motion. Diego accepts the nomination and there were no further nominations for
+Treasurer.
+
+Diego Diaz nominated Francisco Gallardo for Secretary for the next year.
+Patrick Hawks seconded the motion. Francisco accepts the nomination and there
+were no further nominations for Secretary.
+
+We are long passed the date requested by Director Autwell for assistance with
+Welcome Week (January 20, 21, and 22). Chad Hidalgo will send an email on
+Monday, January 19th to finalize the hours that members may be available to be
+at the Welcome Week booth and communicate this with Director Autwell with
+apologies for being so late.
+
+Motion from Diego Diaz to purchase small bottles of water to pass out for good
+will during Welcome Week. There was no second and the motion failed. Diego
+volunteered to purchase them on his own and understands that the expenditure is
+not authorized for reimbursement from club funds.
+
+The request for assistance from Dr. Damania to direct attendants for the
+symposium “Changing World of Learning with Web 2.0” was presented. We need 6
+members to be available at 5:45 on February 4th. Patrick is unavailable. Chad
+will be able to arrange his schedule. Chad will follow up during the first week
+of the semester in order to communicate with Dr. Damania who will be available.
+Those who are planning to attend need to have a BC shirt.
+
+Chad Hidalgo presented a receipt for the purchase of a receipt book for club
+use. Chad will be reimbursed from club funds for this purchase.
+
+Motion from Chad Hidalgo to set a fundraising goal of $5000 to provide 10
+scholarships (based on merit in a code/essay competition) in the amount of $500
+each. Patrick Hawks seconded the motion and it was presented for a vote. Ayes
+carry and we will organize fund raising events to meet this goal.
+
+Cesar Martinez suggested shaved ice, calling it by a Spanish name for later in
+the semester when the weather warms up. We discussed popcorn, cotton candy, a
+car wash, and a “Mario Kart” tournament.
+
+We discussed ideas for custom light shows using Light-O-Rama or DMX controllers
+that will be presented to SGA/Student Life as it can be used for a holiday
+display to generate funds and it can also be incorporated into choir
+presentations, graduation, and sporting events.
+
+Chad Hidalgo is going to talk with Media Services about recording the
+presentations and having the presentations available to all students and
+faculty/staff.
+
+## Agenda for Next Meeting
+
+ * Collect Annual Fees and issue receipts from those who have not already paid
+ * Elections
+ * Presentation from Pat Hawks on Github
+ * Schedule next presentation topic and presenter
+
+## Adjournment
+
+Meeting was adjourned at 3:07 PM  by Chad Hidalgo. The next general meeting will
+be at 1:00 PM on February 6, 2015, in B11.
+
+Minutes submitted by: Diego Diaz
+
+Approved by: Chad Hidalgo

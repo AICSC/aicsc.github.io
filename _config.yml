@@ -31,7 +31,14 @@ defaults:
       type: "posts"
     values:
       layout: "minutes"
-      title: "Meeting Minutes"
+      title: "Minutes"
+  -
+    scope:
+      path: "agenda"
+      type: "posts"
+    values:
+      layout: "agenda"
+      title: "Agenda"
 
 exclude:
   - Gemfile

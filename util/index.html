@@ -4,14 +4,26 @@ permalink: "/"
 ---
 
 <div class="home">
-  <h1 class="page-heading">Meeting Minutes</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+
+    {% assign agenda = (site.posts | where:"title","Agenda" | first) %}
+    {% if agenda.date > site.time %}
+    <div id="nextmeeting">
+    <h1 class="page-heading">Next Meeting</h1>
+    <ul class="post-list">
+    <li><h2><a href="{{ agenda.url }}">{{ agenda.date | date: "%B %-d, %Y" }}</a></h2></li>
+    </ul>
+    </div>
+    {% endif %}
+
+    <h1 class="page-heading">Meeting Minutes</h1>
+    <ul class="post-list">
+        {% assign minutes = (site.posts | where:"title","Minutes") %}
+        {% for post in minutes %}
+        <li>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
 </div>

@@ -1,0 +1,61 @@
+---
+---
+
+## Call Meeting To Order
+
+The special meeting of the Artificial Intelligence Computer Science Club was called to order at 10:17 am on August 19, 2015 at Burger King, 1949 Columbus St, Bakersfield, CA 93305 by Patrick Hawks.
+
+### Present
+
+ * Bryson Zuspan
+ * Chad Hidalgo
+ * Diego Diaz
+ * Edgar Orozco
+ * Gerardo Martinez
+ * Patrick Hawks
+ * Peter Rodriguez
+
+## New Business
+
+ * Discuss modifications to constitution
+   - Need to compare [current constitution](https://www.bakersfieldcollege.edu/sites/bakersfieldcollege.edu/files/aicsc_constitution_21_november_2014.pdf) to the [BC Sample StudOrg Constitution](https://www.bakersfieldcollege.edu/sites/bakersfieldcollege.edu/files/BCSampleStudOrgConstitution%28Spring2015%29.docx) to see what would make sense to modify
+   - When are dues paid, and are dues paid per calendar year, school year, or for any 12 month period?
+   - Clarify division of responsibilities among board members
+   - Outline procedure to follow if a board member must voluntarily resign mid term
+   - Add to bylaws an "Ambassador" type position?
+ * New Student Convocation - August 20 2015
+   - We will have an info booth
+ * Welcome Week plans and activities
+   - Info booth at the club fair
+   - Advertise first regular meeting of the fall semester with Welcome Week materials
+ * Decide on first [Coding Challenge](https://github.com/AICSC/Coding-Challenges/blob/master/2015/09-04/Readme.md)
+   - Two coding challenges were chosen:
+     * Design a UI
+     * Randomly generate a Bingo Card
+ * Elect New President
+   -  Chad Hidalgo nominated Diego Diaz to serve as president; Patrick Hawks seconded the nomination. Diego Diaz nominated Peter Rodriguez to serve as president; Patrick Hawks seconded the nomination. Patrick Hawks nominated Gerardo Martinez to serve as president; Diego Diaz seconded the nomination. Voting was done by a secret ballot and results were tabulated by Edgar Orozco and Bryson Zuspan.
+     * Diego Diaz was elected President to replace outgoing President Chad Hidalgo for the remainder of the term ending in Spring 2016.
+ * Elect New Treasurer
+   - With Diego vacating the position of treasurer, a second election was held to elect a replacement treasurer. Diego nominated Peter Rodriguez to serve as treasurer; Patrick Hawks seconded the nomination. Patrick Hawks nominated Gerardo Martinez to serve as treasurer; Diego Diaz seconded the nomination. Chad Hidalgo nominated Edgar Orozco to serve as treasurer; Diego Diaz seconded the nomination. Voting was done by a secret ballot and results were tabulated by Chad Hidalgo and Bryson Zuspan.
+     * Edgar Orozco was elected Treasurer to replace Diego Diaz for the remainder of the term ending in Spring 2016.
+ * Elect New Secretary
+   - With both of our secretaries stepping down, it was determined necessary to elect a replacement secretary. Patrick Hawks nominated Peter Rodriguez to serve as secretary; Diego Diaz seconded the nomination. Peter accepts the nomination and there were no further nominations for Secretary.
+     * Peter Rodriguez will serve as Secretary for the remainder of the term ending in Spring 2016.
+
+## Comments and Announcements
+
+ * We are still waiting to hear about on campus storage for our club. In the meantime, all agreed that club owned materials could remain in the possession of board members.
+ * It was decided that, in future meetings, official business should be taken care of in the first 20-30 minutes so that the bulk of the meeting can be devoted to Coding Challenges, break out sessions, homework help, etc. This will probably involve the board meeting on their own, separate from regular meetings, to prepare agenda items for meetings.
+ * The club discussed the possibility of having an ambassador serve on Bakersfield College's ISIT committee. Patrick will research this opportunity.
+
+## Public Comment
+ * Diego expressed a desire to invite Computer Science students that would like help with homework to future meetings. All agreed that this would be a good idea.
+ * Patrick proposed opening up the Coding Challenges repository with an Open Source license. Patrick will present more details as to what this would entail and how it could be accomplished at the next meeting.
+
+## Adjournment
+
+Meeting was adjourned at 11:55 AM by Chad Hidalgo. The next general meeting will be at 9:00 AM on September 4, 2015, in B11.
+
+Minutes submitted by: Patrick Hawks
+
+Approved by: Diego Diaz

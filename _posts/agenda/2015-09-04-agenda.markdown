@@ -1,0 +1,44 @@
+---
+---
+
+## Call Meeting To Order
+
+## Roll Call
+
+## Introduction
+ * Introduction of club
+ * Introduction of members
+ * Introduction of board members
+ * Structure of our meetings
+
+## Old Business
+ * Gerardo serving on ISIT committee
+
+## New Business
+
+ * 2015 BC Homecoming
+   - Theme: Shades of the Renegade #TheBCCollage
+   - Monday: BC Poster Decoration Contest
+   - Tuesday: BC Channel online
+   - Wednesday: Got Talent Cafeteria @ 6pm
+   - Thursday: GotJaded Performance Indoor Theater @ 6pm
+   - Friday: Pancake Feed &amp; Pep Rally
+   - Saturday: Homecoming Parade and Football Game
+ * Modifications to constitution
+ * Open Source license for Coding Challenges repository
+ * Japanese Culture Club
+   - Nintendo Entertainment System celebration
+
+## Suggestions for break out sessions
+
+## Coding Challenge
+
+### UI Challenge
+
+### Bingo Card Challenge
+
+#### New Coding Challenge
+
+## Public Comment
+
+## Adjournment

@@ -1,0 +1,77 @@
+---
+---
+
+## Date: September 4, 2015
+## Meeting Started: 9:10 am
+## Total Attendance: 14
+
+### Diego: -Introduction to the club
+
+Student Government, organization opportunity to serve on the community. Student Voices to be heard. Gerardo took upon the responsibility. Information technology committee. Gerardo appointed Board Member.
+
+Constitution modification still a work in progress. First semester constitution issues, tweak some things that need addressing, Addition to constitution, what happens when a board member needs to step down. No changes to present yet. Open to ideas. Submissions can be sent to git.io.AICSC
+
+Programming challenges and their problems. Opening up the code challenges. Have source code freely used. The idea is to move to source code available to be modified by all. Maybe your code shows up in a textbook>
+
+Japanese Culture would love to have a joint celebration between the AICSC and Japanese club to praise the Nintendo Entertainment System. Supporting this celebration could also be a partnership with first life where money can be raised, which is donated to Hospitals for treatment, research, or even video games for the children.
+
+#### Recess: 9:31 am
+
+#### Resumed: 9:41 am
+
+### Suggestions For Breakouts
+
+ * Habits of Mind App Remodel
+ * WEB DEVELOPMENT
+   - HTML
+   - RUBY
+ * Code Academy
+ * Web App Development
+ * Coding Challenges
+ * Share resources that help CS or other Majors
+ * Purchase Raspberry Pie
+ * Robotics: Computer Scientist and Engineers come together.
+ * Homework Club
+ * Field Trips
+   - Speakers in the community
+   - Bay Area: Tech companies, Computer history museum, Google Office, Facebook Offices, Hiring Processes, things of the like.
+   - Allocation of funds require that you become an active member through the club, in which the process is posted online. Along with other privileges. Attend At least 75% of the meetings. Only Bakersfield College Students. Some Policies have remained Lenient, though we would like to be able to get everyone involved as much as possible. We are understanding in that situations may come up where a member is not able to attend. Discrimination of
+ * Book Loans for those who do not have one/ cannot obtain one
+  - Math Books
+  - English Books
+
+### Code Challenge Presentation and discussion. (U.I design postponed to next meeting.)
+
+Angel Rojas: “I thought this challenge was interesting. I’d never worked with a random number generator before, so it was something new I was able to learn. Everything had to come together, the row, the columns, and the random number generator. I couldn’t just input the numbers of 1-10 to be randomly generated because then it wouldn’t be unique enough. Fortunately, I found that
+
+Diego: “My Spaces and tabs needed some revising. An inside joke going back to the first course of computer science we all took together. Something that can always be sought out for. Just an issue that happens to surface when I write code. I visualized the process I would take before I actually wrote code, that way I knew what I might need to write to make a bingo Card. I needed the shape to come out right, the Bingo to appear at the top, and the random number generator to work. My code worked out well
+
+Pat: I wrote my Bingo Code in Assembly. My first priority was to get my random number generator to be truly random and not just take the modulo method. I wanted every number to be fair and have an equal chance, avoiding numbers having a better chance than others. I also wanted my code to be very precise. It took me more than an hour.
+
+#### Coding Suggestions
+
+ * U.I programming challenge
+ * 99 bottle of beer/ Distance
+
+#### Meeting Adjourned: 11:01 am
+
+## Attending Members: (18 total)
+
+ * Diego Diaz
+ * Patrick Hawks
+ * Gerardo Martinez
+ * Gabe Fortier
+ * Edgar Silva
+ * Peter Rodriguez
+ * Jose Solis
+ * Sandi Barnes
+ * Bryson Zuspan
+ * Guadalupe Medina
+ * Claudia Anseno
+ * Angel Rojas
+ * Jack Sabv
+ * Jordan Medina
+ * Jessica Campos
+ * Katie Tucker
+ * Edgar Orozco
+ * Vananh Vo

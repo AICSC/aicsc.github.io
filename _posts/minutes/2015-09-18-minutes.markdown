@@ -1,0 +1,88 @@
+ACSC Meeting Minutes
+---
+date:   2014-11-21 9:11AM
+permalink: "2015/09/minutes.html"
+---
+
+## Opening
+
+Site: 	j.mp/Pick-License (Slides on Open source)
+	j.mp/GitMagic (slides on Git Hub)
+	git.io/GrokGIt (Brief intro to Magic)
+
+## Old/New Business 
+
+Discussion of Fee Payments: “Anyone is allowed to attend the meetings that are held at Bakersfield College. Although, for those who do not pay the fees, they will not be allowed to participate in activities in which the funds have been pulled from the Club Money. Also, voting rights will be restricted to only those who have paid the fees.
+These dues can be paid at the BS office, or the business building. Make sure to have some sort of evidence of paying your dues, this can come from an actual copy of the receipt or, a photo of it can be taken. 
+Revising of the constitution needs to be done, and we have certain laws that we will discuss, which needs to be voted on the near future. Some will most likely pass as Bylaws, but this will be discussed further.
+Old Business/New: 
+Chad Hidalgo “Old business should be separated from the new business. It is a suggestion that is capable of making these meetings more efficient.”
+*Japanese club/AICSC joint event: 
+TED Talks (Technology Education Discussions)
+Talks of a student led TED talk have been mentioned by faculty at this institution, it’s a great way for the club to get further involved with the school. If there is a subject that we are very familiar with, it would be great for any of the members to participate. Of course, there will have to be planning for the event that will take place, but that can be done later.
+
+## Open Source Vote
+
+Open Source Vote: With an open source license, revisions and further developments are able to be made to your code. All that have access to your code, are able to do so, and so can you. In this case, all open source software is able to be used for commercial purpose. This fact can be menacing, in that your work is able to be taken by anyone and be used for whatever purpose. Though, you will always be credited for your work wherever it used. 
+The MIT license it the most permissive of all the licensee out there.
+General Public license 
+Both MIT and GP license are generally applied to source code
+Creative common license: this is content that does not necessarily have to be source code itself. It can be photos, designs.. Anything that you would like.
+“I think for our purposes, for coding challenge repository. We might be best using two license, having both the MIT license and the CCL, can have the terms in which we put more flexible the capabilities someone can do. 
+“I think the GPL is a more suited license for the club. It would keep most of the content that comes into our repository academically inclined. It lines up.” 
+More information can be found at choosealicense.org
+9:32 Vote taken
+All in favor, say “ I :”
+-No oppositions noted
+Voted Licenses:
+*Creative Commons attribution 4.0 international* (approved)
+*General Public license 2+* (Approved)
+*MIT license* (1 oppose, multiple approves; approved)
+- Vote taken once again for
+MITL (not approved, 1 opposition)
+GPL: (approved)
+Chad Hidalgo: “Who are the current members who are able to vote?”
+//--“I suggest we change that terms to all present members for the time being.
+Diego: Anyone who has paid their dues from last semester is able to vote
+Vote for present members to be able to vote: -Members approved
+-No opposition noted
+
+## Open discussion
+
+IDEAS AND SUGGESTIONS FOR AICSC MEETINGS: Student government has a lot of grants available for Clubs. The funds are very finite though. Once the money is gone, it is gone. All we have to do is apply for a grant, and we want to accomplish this early on. The money is available, and it’s a great opportunity to get us on at least one field trip for the year. We need to keep in mind a date and a destination. Does anyone have any suggestions? Remember, the grants only go up to $1000. It will mostly be towards the transportation to get us there and back.
+Joint Connections with other Clubs/activity
+The tour of the Silicon Valley
+FACEBOOK HQ
+GOOGLE HQ
+GITHUB HQ
+BLIZZARD IRVINE HQ
+COMPUTER HISTORY MUSEUM
+APPLE
+Light Speed Systems (LOCAL)
+RIOT (Santa Monica)
+
+## Event Planning Committee
+
+-ADHOC Committee for Events (Mentioned by Chad Hidalgo)
+Mostly to focus on one missions, as we do keep in mind that everyone is busy. 
+Formalize the committee
+-VANANH
+-ZEPH
+-RON
+-DIEGO
+-GABE
+
+## FundRaising Ideas
+
+*Blank Check to put on a Dance: Event issued by the school*
+CSC TOURNAMNET FUN
+Arcade Machines
+Chipotle fundraising
+Carl’s JR
+
+Break started: 10:12
+Break Resumed: 10:22
+
+## Adjourned 
+
+Meeting Adjourned 11:05 AM

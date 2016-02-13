@@ -1,0 +1,31 @@
+AICSC Meeting: 9:00 am
+---
+Date: October 2, 2015
+Members attended: 11
+---
+
+## Opening
+
+*Introduction*
+Discussion on payment of dues for club membership. There was an issue with going to the business building in order to pay dues. Instead, members must go to Edgar Orozco *Treasurer* with their fee. Dues with the business office will be taken care of by the club board members. Patrick hawks was able to establish a bulletin board on campus. A club poster was made by Vananh Vo, and minutes + Preview+ Agenda was posted by Diego Diaz. This will attract more attention to the club. It is important that this is updated every two weeks, or we lose our spot. It is very imperative that we pay attention to the amount of time we have to update it.
+*Club Discussion*
+Decoration for the bulletin board would be great. The Office of Student Life offers supplies in arts and crafts supplies that apparently does not get taken advantage enough. They were happy to help us and that we were taking advantage of their offered resources. They have a graphic designer, so trying to establish a new logo for the club would go smoothly. Not all resources have been covered in this discussion, so there are more. Over 30 grand is available to be granted. Therefore, a decorating and planning committee would like to be established to handle events dealing with decorations and so forth. Positions are open to everyone!
+*Club Collaboration*
+Japanese club wants to celebrate the Nintendo entertainment system. It spread to the S.G.A, the Japanese Club, CSUB, and their clubs on their campus. This event is meant to entertain attendees with videogames, a fun sociable event for all. It is intended to raise money for children in the hospital, so they can have gaming peripherals and other accessories.
+*Club Trip Discussion*
+ Destinations have been previously discussed. Trying to contact these Companies were not as simple as it appeared at first. So the club took advantage of calling these places, and some were open to having tours, others appeared strict. Light Speed systems is a local business here in Bakersfield that is attainable to travel to. The others discussed will have to be put on hold until further notice. The Computer History Museum is also a location the club will be likely to go to. 
+  *Suggestions for Break-out Sessions:*
+-Habits of Mind App
+-Web development: HTML, Ruby, JavaScript (Prosper & Diego)
+^^AICSC Committee handling the Habits of Mind app. The app For Bakersfield College desperately needs renovation.
+-Raspberry PI (Jack & Pat)
+How to get an Internship (Diego & Vananh) recommendation 
+-Robotics: Joint development with the Robotics club?
+-App Development
+-Official Artificial Intelligence Computer Science Club.
+^^Great idea for a breakout Session.
+-How to use Github (Pat) 
+
+## Adjourned
+
+Meeting Adjourned 10:52 am

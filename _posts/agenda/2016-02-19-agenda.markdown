@@ -24,7 +24,7 @@
 ### 5-10 minute Break
 
 ## Break out session/ presentation
-  -Swift code presentation - Pat Hawks.
+  - Swift code presentation - Pat Hawks.
 
 ## Public Comment
 

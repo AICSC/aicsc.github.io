@@ -1,26 +1,22 @@
 ---
-Time Started: 1:00 pm
-Time Ended:  2:30 pm
-Date: Oct. 19, 2015
 ---
 
-## Introduction:
-The constitution has been amended to fix what the board members had confused on, as well as each board members individually duties.  As for paid dues for the club they will be taken today as the club finally has an account number. 
-New Business: 
-Big events are soon to come our way. Coming up soon is Extra Life Gaming Event. This event will need help in its advertising. It’s important to keep in mind that we have resources around campus for clubs that the Student Government association can help us access. 
+## Introduction
+The constitution has been amended to fix what the board members had confused on, as well as each board members individually duties.  As for paid dues for the club they will be taken today as the club finally has an account number.
 
-### Community Report:
+### New Business
+Big events are soon to come our way. Coming up soon is Extra Life Gaming Event. This event will need help in its advertising. It’s important to keep in mind that we have resources around campus for clubs that the Student Government association can help us access.
+
+### Community Report
 A new flyer advertising the computer science club has been created by Vananh Vo. It will be the main way that the club gets advertised to all students here at the Bakersfield College campus. Thank you Vananh!
 
 ### Financial Report
-There is no financial report yet, but all financial history will be available online for club members to view within the next few weeks. This is so all members of the club can be aware of all the activity that goes on  with funds raised throughout the year, and past years. 
+There is no financial report yet, but all financial history will be available online for club members to view within the next few weeks. This is so all members of the club can be aware of all the activity that goes on  with funds raised throughout the year, and past years.
 
 ### Club Website
 
-The club website is where all information on the club will be posted from now on. Therefore, the club is looking for club members who are interested in the design of the website! All are welcome to participate. 
-Computer History Museum 
-We are still working on getting a SOF grant to pay half of the cost of the trip. It was mentioned by a club member that we may be able to get outside donations to help cover the cost of the trip. Stay tuned for more details, next week, on Dragon Ball z. 
+The club website is where all information on the club will be posted from now on. Therefore, the club is looking for club members who are interested in the design of the website! All are welcome to participate.
+Computer History Museum
+We are still working on getting a SOF grant to pay half of the cost of the trip. It was mentioned by a club member that we may be able to get outside donations to help cover the cost of the trip. Stay tuned for more details, next week, on Dragon Ball z.
 
-//Presentation on Swift by Patrick Hawks  ༼ つ ◕_◕ ༽つ
-
-
+[Presentation on Swift by Patrick Hawks](https://gist.github.com/pathawks/d639e13e59431c41da6d)  ༼ つ ◕_◕ ༽つ

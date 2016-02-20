@@ -2,7 +2,7 @@
 title: Artificial Intelligence Computer Science Club
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Meetings are held the first and thrid Fridays of the month in room B11 at 9am
+  Meetings are held the first and thrid Fridays of the month in room B11 at 1pm
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aicsc.github.io" # the base hostname & protocol for your site
 

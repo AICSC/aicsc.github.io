@@ -1,13 +1,14 @@
 ---
+title: "Agenda"
 ---
 
 ### Call Meeting To Order
 
-### Attendance 
+### Attendance
 
 
 ## New Business
-  
+
   * Reports
     - ICC report
     - Event Committee Report
@@ -18,8 +19,8 @@
 
 
   * Coding Challenge
-  
-  
+
+
 ### 5-10 minute Break
 
 ## Break out session/ presentation

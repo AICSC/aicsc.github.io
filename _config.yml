@@ -18,6 +18,7 @@ sass:
 gems:
   - jekyll-sass-converter
   - jekyll-sitemap
+  - jekyll-seo-tag
 defaults:
   -
     scope:

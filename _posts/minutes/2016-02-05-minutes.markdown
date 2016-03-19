@@ -2,35 +2,45 @@
 ---
 
 ## Introduction
+
 Information regarding finances are being discussed. Only a few members of the club have paid their dues and claimed their Active status. To claim your full active status benefits, you must pay your dues and attend at least 4 of the meeting during the term. In order to go on field trips, you must meet those terms as written in the Club Constitution. The club constitution is available online.
+
 Diego Diaz: Today we will briefly discuss revisions to the amendments, and any opinion the attendants here today may have.
+
 Edgar Orozco: This club was formed by a few of us together at a social gathering, and this club is very personal to the founding members of this club. Although, there is a discrepancy with our club name. We are currently labeled as the Artificial Intelligence Computer Science Club. This was created as an inside joke, but It has caused advertising issues for the club. Some interested students often come with the intent of learning about Artificial Intelligence, but the interests of the club is much different from our current name.
-[Motion to Vote on Name change to take place next meeting]			Unanimous Approval
+
+[Motion to Vote on Name change to take place next meeting]      Unanimous Approval
+
 ---
 
 ## ICC information
-March 2: Volleyball and
-April 4: Spring Fling Events
-April 6: Pizza Fest
-April 7: Casino Night
-April 16: Garden Fest // date needs to be checked
-9:00-4:00pm
 
-April 23: relay for life
-April 30: Extra Life Fundraiser		General Admission: $15 		With slice of pizza: $20
-
-
+ * March 2: Volleyball and
+ * April 4: Spring Fling Events
+ * April 6: Pizza Fest
+ * April 7: Casino Night
+ * April 16: Garden Fest
+  - date needs to be checked
+  - 9:00-4:00pm
+ * April 23: relay for life
+ * April 30: Extra Life Fundraiser
+  - General Admission: $15
+  - With slice of pizza: $20
 
 ## Old Business/New
 
 ### Field Trip!!
+
 There is an upcoming field trip on April 29, 2016. It will be in Mountain View California. The destination will be the Computer History Museum. There are costs for both admission and travel. The club is currently trying to apply for a SOF grant that will pay for the costs for active members to attend. The date for the trip is set, but we are still currently working out the cost of the trip itself and where those funds will come from. The Board Members of the club invite all active members to come out and enjoy a day of fun and learning. I repeat, this event is exclusively extended to all active members of the club.
 
 SIDE NOTE: Inquire about the Agriculture Department and the Bus they have for transportation of their members.
 
 ### Professionals of the Community
+
 Members of the Bakersfield Community in fields related to computer science are always welcome to give talks with the computer Science Club. There may be guest appearances during the term.
 
 ### Coding Challenges
+
 This is something that the club loves to participate in. The goal is not to write complicated code, but instead to write code for simple tasks. Once participants submit their code, the club asks that they give a brief explanation of how they implemented their code and why. This allows both the creator and the audience to interact with one another and give tips, compliments, or perhaps what could have been done differently. Each club meeting, members are able to give ideas on a code challenge they would like to do.
+
 Coding Suggestion: License plate program with unique random generator by State

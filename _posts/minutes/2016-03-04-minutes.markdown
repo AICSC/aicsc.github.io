@@ -2,7 +2,9 @@
 ---
 
 ## Introduction
+
 Today we will be nominating and voting for new board members! All active members are encouraged to voice their opinions of who should be elected into board positions. Each board members position and duties are outlined in the constitution, but each current board member will also have a chance to explain first hand some of the tasks that they do.  We will also be having a guest speaker here from Aera Energy, Kristin Kroeker and Brian Ly. We are so glad to have you here!
+
 You can contact them through their email, they said they don’t bite!
 
 kskroeker@avadine.com
@@ -10,38 +12,43 @@ kskroeker@avadine.com
 bly@avadine.com
 
 ### New Business
-Nominations for Secretary: Diego, Oscar
 
+Nominations for Secretary: Diego, Oscar
 
 Nomination for President: Vananh
 
-
 Nomination of treasurer: Oscar, Edgar
-
 
 Nomination of ICC Rep: Diego, Alec
 
 ### Community Report
+
 A new T-shirt design advertising the computer science club has been created by Vananh Vo. It will be one of the ways that the club can get advertised to all students here at the Bakersfield College campus. The design was unanimously voted on and approved today!  Thank you Vananh!
-Pat Hawks has reported about the state of fund allocations toward clubs on the Bakersfield College Campus. Next year, procedures and requirement for gaining funding for the club will become more tentative. A meeting is going to be held on April 12 or April 13 in the Board room meeting by the SGA concerning these changes. Also, the date of Garden Fest and Extra Life have been changed to occur on the same date as April 16. Members will be needed to attend either events. There is also a new club on campus advertising the.  Thanks for the update Pat! 
+
+Pat Hawks has reported about the state of fund allocations toward clubs on the Bakersfield College Campus. Next year, procedures and requirement for gaining funding for the club will become more tentative. A meeting is going to be held on April 12 or April 13 in the Board room meeting by the SGA concerning these changes. Also, the date of Garden Fest and Extra Life have been changed to occur on the same date as April 16. Members will be needed to attend either events. There is also a new club on campus advertising the.  Thanks for the update Pat!
 
 ### Financial Report
-The members who have paid their dues are all formally listed on an excel spreadsheet. Included in the surrounding areas are also the dues that the club has paid and spent. There is a link that can take you to that information here: 
+
+The members who have paid their dues are all formally listed on an excel spreadsheet. Included in the surrounding areas are also the dues that the club has paid and spent. There is a link that can take you to that information here:
+
 All financial history is currently available online. This is so all members of the club can be aware of all the activity that goes on  with funds raised throughout the year, and past years. Thank You Edgar!  
-Edgar Orozco also proposed along with Gabe Fortier, for a video game committee to be discussed at the next meeting. We look forward to it! 
- 
+
+Edgar Orozco also proposed along with Gabe Fortier, for a video game committee to be discussed at the next meeting. We look forward to it!
+
 ### Club Website
+
 The club website is where all information on the club will be posted from now on. Therefore, the club is looking for club members who are interested in the design of the website! All are welcome to participate.
-Interested club members: Vananh, Prosper, Alec, Mark, Diana 
+
+Interested club members: Vananh, Prosper, Alec, Mark, Diana
 
 ### Computer History Museum
-We are still working on getting a SOF grant to pay half of the cost of the trip. We are looking to get more information on the grant hopefully by next week. We are however going to take a tentative headcount of people that will be in attendance of that event. That number is 10 roughly. Stay tuned for more details, next week, on Dragon Ball z. 
+
+We are still working on getting a SOF grant to pay half of the cost of the trip. We are looking to get more information on the grant hopefully by next week. We are however going to take a tentative headcount of people that will be in attendance of that event. That number is 10 roughly. Stay tuned for more details, next week, on Dragon Ball z.
 
 ### Coding Challenge
-The coding challenges that have been voted into for the next meeting would be the License plate generator, and the design a User Interface challenge. Thank you Gabe Fortier for coming up with the idea of the License plate generator. 
 
-######minutes done by Peter Rodriguez
+The coding challenges that have been voted into for the next meeting would be the License plate generator, and the design a User Interface challenge. Thank you Gabe Fortier for coming up with the idea of the License plate generator.
 
-[Presentation on Industry and Computer Science by Kristen Kroeker and Brian Ly](https://gist.github.com/pathawks/d639e13e59431c41da6d)  ༼ つ ◕_◕ ༽つ
+### Guest Speaker
 
-######minutes done by Peter Rodriguez   ¯\_(ツ)_/¯ >⌐■-■ (⌐■_■)           
+Presentation on Industry and Computer Science by Kristen Kroeker and Brian Ly          

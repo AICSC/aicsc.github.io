@@ -12,14 +12,17 @@
  - [Brief Intro to Magic](https://gist.github.com/pathawks/6186aa02d1ba44658f9c#file-github-links-md)
 
 Discussion of Fee Payments: “Anyone is allowed to attend the meetings that are held at Bakersfield College. Although, for those who do not pay the fees, they will not be allowed to participate in activities in which the funds have been pulled from the Club Money. Also, voting rights will be restricted to only those who have paid the fees.
+
 These dues can be paid at the BS office, or the business building. Make sure to have some sort of evidence of paying your dues, this can come from an actual copy of the receipt or, a photo of it can be taken.
+
 Revising of the constitution needs to be done, and we have certain laws that we will discuss, which needs to be voted on the near future. Some will most likely pass as Bylaws, but this will be discussed further.
+
 ## Old Business/New:
 
-* Chad Hidalgo “Old business should be separated from the new business. It is a suggestion that is capable of making these     meetings more efficient.”
-* Japanese club/AICSC joint event: 
-* TED Talks (Technology Education Discussions)
-  Talks of a student led TED talk have been mentioned by faculty at this institution, it’s a great way for the club to get     further involved with the school. If there is a subject that we are very familiar with, it would be great for any of the     members to participate. Of course, there will have to be planning for the event that will take place, but that can be done   later.
+ * Chad Hidalgo “Old business should be separated from the new business. It is a suggestion that is capable of making these meetings more efficient.”
+ * Japanese club/AICSC joint event: 
+ * TED Talks (Technology Education Discussions)
+  Talks of a student led TED talk have been mentioned by faculty at this institution, it’s a great way for the club to get further involved with the school. If there is a subject that we are very familiar with, it would be great for any of the members to participate. Of course, there will have to be planning for the event that will take place, but that can be done later.
 
 ## Open Source Vote
 
@@ -31,22 +34,36 @@ Revising of the constitution needs to be done, and we have certain laws that we 
 	- Creative common license: this is content that does not necessarily have to be source code itself. It can be photos, 			designs... Anything that you would like.
 
 “I think for our purposes, for coding challenge repository. We might be best using two license, having both the MIT license and the CCL, can have the terms in which we put more flexible the capabilities someone can do.
+
 “I think the GPL is a more suited license for the club. It would keep most of the content that comes into our repository academically inclined. It lines up.” 
+
 More information can be found at choosealicense.org
+
 9:32 Vote taken
+
 All in favor, say “ I :”
+
  - No oppositions noted
+
 Voted Licenses:
-*Creative Commons attribution 4.0 international* (approved)
-*General Public license 2+* (Approved)
-*MIT license* (1 oppose, multiple approves; approved)
+
+ * *Creative Commons attribution 4.0 international* (approved)
+ * *General Public license 2+* (Approved)
+ * *MIT license* (1 oppose, multiple approves; approved)
+
 - Vote taken once again for
-MITL (not approved, 1 opposition)
-GPL: (approved)
+
+ * MITL (not approved, 1 opposition)
+ * GPL: (approved)
+
 Chad Hidalgo: “Who are the current members who are able to vote?”
+
 //--“I suggest we change that terms to all present members for the time being.
+
 Diego: Anyone who has paid their dues from last semester is able to vote
+
 Vote for present members to be able to vote: -Members approved
+
 -No opposition noted
 
 ## Open discussion
@@ -67,7 +84,9 @@ IDEAS AND SUGGESTIONS FOR AICSC MEETINGS: Student government has a lot of gran
 ## Event Planning Committee
 
 -ADHOC Committee for Events (Mentioned by Chad Hidalgo)
+
 Mostly to focus on one missions, as we do keep in mind that everyone is busy.
+
 Formalize the committee
 
  - VANANH
@@ -76,15 +95,17 @@ Formalize the committee
  - DIEGO
  - GABE
 
-## FundRaising Ideas
+## Fundraising Ideas
 
 *Blank Check to put on a Dance: Event issued by the school*
+
  - CSC TOURNAMNET FUN
  - Arcade Machines
  - Chipotle fundraising
  - Carl’s JR
 
 Break started: 10:12
+
 Break Resumed: 10:22
 
 ## Adjourned

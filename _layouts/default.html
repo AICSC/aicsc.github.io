@@ -1,13 +1,47 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title and page.title != "Minutes" and page.title != "Agenda" %}{{ page.title }}{% elsif page.title == "Minutes" %}Meeting Minutes {{ page.date | date: "%B %-d, %Y" }}{% elsif page.title == "Agenda" %}Agenda for {{ page.date | date: "%B %-d, %Y" }}{% else %}{{ site.title }}{% endif %}</title>
+    {% feed_meta %}
+    {% seo title=false %}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width initial-scale=1">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  </head>
   <body>
-    {% include header.html %}
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <nav class="site-nav">
+          <div class="trigger">
+            {% for page in site.pages %}{% if page.title %}
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endif %}{% endfor %}
+          </div>
+        </nav>
+      </div>
+    </header>
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
-    {% include footer.html %}
+    <footer class="site-footer">
+      <div class="wrapper">
+        <div class="footer-col-wrapper">
+          <div class="footer-col footer-col-1">
+            <ul class="contact-list">
+              <li><a href="https://github.com/AICSC/Coding-Challenges">Coding Challenges</a></li>
+              <li><a href="https://www.facebook.com/groups/AICSC/">Facebook Group</a></li>
+              <li><a href="https://portal.kccd.edu/jsp/grouptools/frame/FrameSet.jsp?tab=1&url=https%3A%2F%2Fportal.kccd.edu%2Fjsp%2Fgrouptools%2Fhome%2FHomePage.jsp%3FgroupID%3D22353">Inside BC</a></li>
+            </ul>
+          </div>
+          <div class="footer-col footer-col-2">
+            <p class="text">{{ site.description | strip_newlines }}</p>
+          </div>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>

@@ -15,6 +15,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sass-converter
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 defaults:

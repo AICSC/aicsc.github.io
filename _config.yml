@@ -40,3 +40,4 @@ exclude:
   - .gitignore
   - readme.md
   - script
+  - vendor

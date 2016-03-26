@@ -6,7 +6,7 @@ title: "Agenda"
 
 ### Attendance
 
-#### * Collect Dues:
+#### Collect Dues
 
 ## New Business
   * Constitution Vote
@@ -18,7 +18,7 @@ title: "Agenda"
 
   * Coding Challenge
 
-  * github website
+  * GitHub website
     - possible webmaster
     - group to work on the website
 

@@ -1,14 +1,12 @@
 # Site settings
-title: Artificial Intelligence Computer Science Club
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Meetings are held the first and third Fridays of the month in room B11 at 1pm
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://aicsc.github.io" # the base hostname & protocol for your site
+title: "Artificial Intelligence Computer Science Club"
+description: "Meetings are held the first and third Fridays of the month in room B11 at 1pm"
+url: "http://aicsc.github.io"
+baseurl: ""
 
 # Build settings
 encoding: "UTF-8"
-lang: en-US
+lang: "en-US"
 timezone: "America/Los_Angeles"
 lsi: false
 permalink: /:year/:month/:day/:title.html
@@ -17,6 +15,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sass-converter
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 defaults:

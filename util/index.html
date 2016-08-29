@@ -15,9 +15,11 @@ permalink: "/"
     </div>
     {% endif %}
 
+    {% assign DateLimit = "post.date > site.DontShowPostsBefore" %}
+    {% assign minutes = site.posts | where:"title","Minutes" | where_exp:"post",DateLimit %}
+    {% unless minutes == empty %}
     <h1 class="page-heading">Meeting Minutes</h1>
     <ul class="post-list">
-        {% assign minutes = (site.posts | where:"title","Minutes") %}
         {% for post in minutes %}
         <li>
             <h2>
@@ -26,4 +28,6 @@ permalink: "/"
         </li>
         {% endfor %}
     </ul>
+    {% endunless %}
+    <a href="/minutes/">View all previous minutes</a>
 </div>

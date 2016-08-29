@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: "/minutes/"
+---
+
+<div class="home">
+    {% assign minutes = site.posts %}
+    <h1 class="page-heading">Meeting Minutes</h1>
+    <ul class="post-list">
+        {% for post in minutes %}
+        <li>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

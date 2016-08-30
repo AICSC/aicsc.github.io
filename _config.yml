@@ -29,7 +29,7 @@ defaults:
       title: "Minutes"
   -
     scope:
-      path: "agenda"
+      path: "_posts/agenda"
       type: "posts"
     values:
       layout: "agenda"

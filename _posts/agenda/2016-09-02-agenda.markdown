@@ -18,17 +18,19 @@ title: "Agenda"
 	- Introduce advisor(s)
 
 ### New Business: 
-	* Reports:
-		- ICC Report
-		- Treasurer Report
+
+* Reports:
+	- ICC Report
+	- Treasurer Report
 	
 
 ### 5-10-minute break
 
 ### New Business continued:
-* Code Camp –  field trip
-		- Receive attendance count
-		- RSVP
+
+* Code Camp-field trip
+	- Receive attendance count
+	- RSVP
 * Club t-shirts 
 
 * Public comments

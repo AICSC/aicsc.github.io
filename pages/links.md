@@ -8,3 +8,4 @@ layout: default
 
  * [GitHub Student Developer Pack](https://education.github.com/pack)
  * [Computer Architecture and Organization Handouts](https://github.com/pathawks/Computer-Architecture-and-Organization)
+ * [Google](https://google.com)

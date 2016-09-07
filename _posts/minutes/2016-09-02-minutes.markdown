@@ -57,9 +57,11 @@
 ## New Business:
 
   * Reports: 
-    - Treasurer Report: https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing
+    - [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
     - Video Game Committee Report
+    
 ## Activities:
+
   * Let’s Code Together! (New version of Coding Challenge) 
     - Talked about during Sarena Introduction briefly
   * Code Camp - field trip

@@ -1,0 +1,75 @@
+---
+---
+# Minutes for September 2, 2016 Call Meeting to Order (1:05pm)
+  * Attendance
+    - Talk about mass emailing and reminder
+    - Walk through how to set up members
+      - Set up member name and email
+      - How to make self present
+    - Registration until 1:20pm
+  * Elections (1:21pm):
+    - Go over constitution.
+      - Fees were collected by Vananh Vo from:
+        - Mark Crews, Halley Crews:, Vananh Vo, Gabe Fortier,Alec Sherlock, Destinee Hoskins, Chad Hidalgo, Richard Adams, Diego Diaz, Andres Zamora, Noe Ramirez, Gerardo Martinez, Sarena Cerda
+      - Go over things that need to be changed briefly 
+    - Mention google Drive
+      - Club Member Request Folder
+    - A motion was made by Chad Hidalgo and seconded to amend the club
+    constitution to add the officer position of Vice President. Diego Diaz called for any objections to the motion and seeing no objections the proposed amendment was subjected to the membership for a vote. The amendment passed with a unanimous vote
+    - Treasurer Nominations (1:43 - 1:46pm) 
+      - Nominees:
+        - Sarena Cerda
+        - Gerardo Martinez
+        - Gabe Fortier
+      - Vote
+        - Ballots were collected and counted by Vananh Vo. The
+        count was verified by Professor Miles. Receiving 10 out of
+        17 votes cast, Serena Cerda is elected to the position of
+        Treasurer for the 2016/17 school year. 
+    - Secretary Nominations(1st): (1:41pm)
+      - Nominees
+        - Chad Hidalgo
+      - A motion was made by Alec Sherlock and seconded to forego the ballots for the uncontested position and verify the election of Chad Hidalgo to serve as secretary for the 016/17 school year. As there were no objections the motion carried.
+      - Results
+        - Chad Hidalgo
+    - Vice-President Nominations (1:46pm) 
+      - Nominees
+        - Diego Diaz
+        - Sarena Cerda
+        - Gabe Fortier
+      - Vote
+      - Ballots were collected and counted by Vananh Vo. The
+        count was verified by Professor Miles. Receiving 14 out of 17 votes cast, Diego Diaz is elected to the position of Treasurer for the 2016/17 school year.
+
+  * Introductions:
+    - Vananh Vo (President)
+    - Diego Diaz (Vice President)
+    - Sarena Cerda (Treasurer)
+    - Alec Sherlock (ICC)
+    - Chad Hidalgo (Secretary)
+
+      - Introduce members
+      - Introduce advisor(s)
+        - Mendoza Absent
+        - Richard Miles
+        - Eddie Rangel
+        
+## New Business:
+
+  * Reports: 
+    - Treasurer Report: https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing
+    - Video Game Committee Report
+## Activities:
+  * Let’s Code Together! (New version of Coding Challenge) 
+    - Talked about during Sarena Introduction briefly
+  * Code Camp - field trip
+    - Receive attendance count - 15 expressed interest in attending SoCalCode
+      Camp. 3 have already RSVPd
+    - RSVP
+  * Club T-shirts
+    - Show logo and design
+  * Public comments
+    - Kern ISSA
+      - September 7, 2016 
+  * Meeting Adjourned at 3:00pm
+Minutes prepared by: Chad Hidalgo (09/02/2016) Minutes approved by: Diego Diaz

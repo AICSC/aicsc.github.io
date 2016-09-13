@@ -10,3 +10,4 @@ layout: default
  * [Computer Architecture and Organization Handouts](https://github.com/pathawks/Computer-Architecture-and-Organization)
  * [MinGW Walkthrough](https://github.com/AICSC/Walkthrough/blob/master/MinGW/win8.md)
  * [I ♥︎ Swift presentation by Pat Hawks](https://youtu.be/OXfF69MGuDM)
+ * [Contact us:](mailto:BCCompSciClub@gmail.com)

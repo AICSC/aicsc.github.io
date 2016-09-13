@@ -1,0 +1,51 @@
+#### BAKERSFIELD COLLEGE
+#### Computer Science Club
+#### 1801 Panorama Drive, Business Building, Room 5
+#### Bakersfield, California 93305
+___
+#### 9/16/2016	1:00 p.m. - 3:00 p.m.	Business Room 5
+
+### I.	CALL MEETING TO ORDER
+### II.	ROLL CALL 
+###### _(The Secretary & Treasurer will determine the number of paid, active members are present out of those on record. A majority quorum must be established to hold a bonafide meeting.)_
+### III.	ADOPTION OF AGENDA
+###### _(The Committee will discuss this agenda and may choose to amend or edit the agenda. Upon conclusion of the discussion the Committee must adopt the agenda.)_ 
+### IV.	ADOPTION OF MINUTES
+###### _(The Committee will discuss those minutes and may choose to amend or edit the minutes. Upon conclusion of the discussion the Committee must adopt the minutes.)_
+*     A.	This Committee will consider the adoption of the minutes from 9/2/2016.
+
+### V.	PUBLIC COMMENT 
+###### _(The Chair will take public comment on any action items on this agenda. The time allowed for public comment shall not exceed five minutes. Speakers are limited to one minute.)_
+### VI.	INDIVIDUAL REPORTS 
+###### _(The Chair shall recognize any executive officer of the Association, including the Advisor(s), to offer a report on official activities since the previous meeting and make any summary announcements deemed necessary for no longer than five minutes.)_
+* A.	Chair, President, Vananh Vo
+* B.	ICC Representative, Alec Sherlock
+* C.	Treasurer, Sarena Cerda
+* D.	Advisor, Harold Mendoza and/or Richard Miles
+
+### VII.	UNFINISHED BUSINESS
+###### _(Items listed in this agenda item have already been read or discussed once and thus are considered for approval of the committee)_
+* A.	Ordering club shirts
+    - i.	Take orders for new members
+    - ii.	ACTION: Vote for board members and advisors to have Polo Shirts
+    
+* B.	SoCal Code Camp OFFICIAL Sign up
+    - i.	In order to proceed with planning and funding for this trip in November, sign-ups will be taken and closed.
+    - ii.	ACTION: Vote between travel on Friday with two night hotel stay, or travel on early Saturday morning and one night hotel stay.
+    
+### VIII.	NEW BUSINESS 
+###### _(Items listed in this agenda item have not already been read or discussed once and thus are considered for approval of the committee)_ 
+* A.	ACTION: 1st reading of written amendment to CSC Constitution submitted via email dated 9/12/2016 by Chad Hidalgo
+* B.	ACTION: Vote to fast track amendment resolution
+* C.	ACTION: 2nd reading and vote to amend Constitution 
+* D.	Presentation from Eddie Rangel regarding using Xamarin to build cross platform mobile apps  
+
+### IX.	COMMENTS AND ANNOUNCEMENTS
+###### _(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)_
+### X. ADJOURNMENT
+###### _(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)_
+___
+###### Notes:
+###### Listen in on the Conference Call: 1-(712) 770-4700   Participant passcode: 991468
+###### Agendas are posted 72 hours before the meetings commences. Agendas are posted electronically at aicsc.github.io
+###### If you would like a copy of any of the agenda items listed, please email bccompsciclub@gmail.com

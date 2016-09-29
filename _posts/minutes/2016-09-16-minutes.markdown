@@ -1,93 +1,86 @@
-#### BAKERSFIELD COLLEGE
 
-#### Computer Science Club
+---
 
-#### 1801 Panorama Drive, Business Building, Room 5
+1.	CALL MEETING TO ORDER
+    * 1:05 PM
 
-#### Bakersfield, California 93305
-___
+2.	ROLL CALL 
+    * 14/18 paid members present
 
-#### 9/16/2016	1:00 p.m. - 3:00 p.m.	Business Room 5
+3.	ADOPTION OF AGENDA
+   * Agenda adopted without amendment
 
-### I.	CALL MEETING TO ORDER
-* 1:05 PM
+4.	ADOPTION OF MINUTES
 
-### II.	ROLL CALL 
-* 14/18 paid members present
+    * A.	This Committee will consider the adoption of the minutes from 9/2/2016.
+        - Richard Adams noted items out of order, but proposed no change.
+        - Minutes adopted without amendment.
 
-### III.	ADOPTION OF AGENDA
-* Agenda adopted without amendment
+5.	PUBLIC COMMENT 
+    * Please add fund raising idea discussion to next agenda.
+    * Add Wufoo discussion onto next agenda.
 
-### IV.	ADOPTION OF MINUTES
+6.	INDIVIDUAL REPORTS 
 
-* A.	This Committee will consider the adoption of the minutes from 9/2/2016.
-    - Richard Adams noted items out of order, but proposed no change.
-    - Minutes adopted without amendment.
+    * A.	Chair, President, Vananh Vo
+        - Head count for code camp
+        - Count for t-shirts
 
-### V.	PUBLIC COMMENT 
-* Please add fund raising idea discussion to next agenda.
-* Add Wufoo discussion onto next agenda.
+    * B.	ICC Representative, Alec Sherlock
+        - Report given by Chad Hidalgo attending in Alec’ stead.
+        - ICC moved to 2nd and 4th Fridays
+        - Optional meeting on Thursdays RE Halloween Ball
+        - Grant proposals added to StudOrgs agenda for next ICC on 9/23/2016
 
-### VI.	INDIVIDUAL REPORTS 
+    * C.	Treasurer, Sarena Cerda
+        - Report given by Diego Diaz in Sarena’s stead
+        - Demonstrated changes made to Treasurer’s Report
 
-* A.	Chair, President, Vananh Vo
-    - Head count for code camp
-    - Count for t-shirts
+    * D.	Advisor, Harold Mendoza and/or Richard Miles
+        - Professor Miles absent by previous arrangement
+        - Professor Mendoza not in attendance
+        - Professor Rangel opened the room and remained in attendance
 
-* B.	ICC Representative, Alec Sherlock
-    - Report given by Chad Hidalgo attending in Alec’ stead.
-    - ICC moved to 2nd and 4th Fridays
-    - Optional meeting on Thursdays RE Halloween Ball
-    - Grant proposals added to StudOrgs agenda for next ICC on 9/23/2016
+7.	UNFINISHED BUSINESS
 
-* C.	Treasurer, Sarena Cerda
-    - Report given by Diego Diaz in Sarena’s stead
-    - Demonstrated changes made to Treasurer’s Report
+    * A.	Ordering club shirts
+        - i.	Take orders for new members
+            - Send email asking for shirt sizes
+        - ii.	ACTION: Vote for board members and advisors to have Polo Shirts
+            - One opposed, discussion opened 
+            - suggest modification as many expressed desire for Polos
+            - Ryan Wallace offered to front 50% of Polo cost.
+            - Deferred to next agenda
+    * B.	SoCal Code Camp OFFICIAL Sign up
+        - i.	In order to proceed with planning and funding for this trip in November, sign-ups will be taken and closed.
+            - Professor Rangel spoke briefly about the event
+            - Andrea asked about food provision
+            - Diego made some points about saving on grant availability for next semester
+            - list of members expressing commitment was compiled by Diego Diaz
+        - ii.	ACTION: Vote between travel on Friday with two night hotel stay, or travel on early Saturday morning   
+        and one night hotel stay.
+            - Committed to attending: 12
+            - One night: 11
+            - Two night:1
+            - With a vote of 11 to 1, the membership is in favor of a one night hotel stay
 
-* D.	Advisor, Harold Mendoza and/or Richard Miles
-    - Professor Miles absent by previous arrangement
-    - Professor Mendoza not in attendance
-    - Professor Rangel opened the room and remained in attendance
+8.	NEW BUSINESS 
 
-### VII.	UNFINISHED BUSINESS
+    * A.	ACTION: 1st reading of written amendment to CSC Constitution submitted via email dated 9/12/2016 by Chad Hidalgo
+    * B.	ACTION: Vote to fast track amendment resolution
+        - Objection noted from Diego Diaz to allow for more time to have text posted for review, objection sustained by membership
+    * C.	ACTION: 2nd reading and vote to amend Constitution
+        - Push to next agenda due to objection of fast track.
+    * D.	Presentation from Eddie Rangel regarding using Xamarin to build cross platform mobile apps  
+        - Recording/transcript to be made available
+        - Diego talked about break out sessions and possibility of expanding to different rooms if we have more advisors available.
+        - Github swag shared by Professor Rangel 
 
-* A.	Ordering club shirts
-    - i.	Take orders for new members
-      - Send email asking for shirt sizes
-    - ii.	ACTION: Vote for board members and advisors to have Polo Shirts
-      - One opposed, discussion opened 
-      - suggest modification as many expressed desire for Polos
-      - Ryan Wallace offered to front 50% of Polo cost.
-      - Deferred to next agenda
-* B.	SoCal Code Camp OFFICIAL Sign up
-    - i.	In order to proceed with planning and funding for this trip in November, sign-ups will be taken and closed.
-      - Professor Rangel spoke briefly about the event
-      - Andrea asked about food provision
-      - Diego made some points about saving on grant availability for next semester
-      - list of members expressing commitment was compiled by Diego Diaz
-    - ii.	ACTION: Vote between travel on Friday with two night hotel stay, or travel on early Saturday morning and one night hotel stay.
-        -12 committed to attending
-        - One night: 11
-        - Two night:1
-        - With a vote of 11 to 1, the membership is in favor of a one night hotel stay
+9.	COMMENTS AND ANNOUNCEMENTS
+    * Diego working on guest speaker, more details to follow
+    * Wufoo form advisement from Dr. Damania
+    * Ryan Wallace suggested presentation regarding A+ certification for next agenda
+    * Next meeting will be October 7th
 
-### VIII.	NEW BUSINESS 
-
-* A.	ACTION: 1st reading of written amendment to CSC Constitution submitted via email dated 9/12/2016 by Chad Hidalgo
-* B.	ACTION: Vote to fast track amendment resolution
-    - Objection noted from Diego Diaz to allow for more time to have text posted for review, objection sustained by membership
-* C.	ACTION: 2nd reading and vote to amend Constitution
-    - Push to next agenda due to objection of fast track.
-* D.	Presentation from Eddie Rangel regarding using Xamarin to build cross platform mobile apps  
-    - Recording/transcript to be made available
-    - Diego talked about break out sessions and possibility of expanding to different rooms if we have more advisors available.
-    - Github swag shared by Professor Rangel 
-
-### IX.	COMMENTS AND ANNOUNCEMENTS
-* Diego working on guest speaker, more details to follow
-* Wufoo form advisement from Dr. Damania
-* Ryan Wallace suggested presentation regarding A+ certification for next agenda
-* Next meeting will be October 7th
-
-### X. ADJOURNMENT
-* Adjourned at 2:15
+10. ADJOURNMENT
+    * Adjourned at 2:15

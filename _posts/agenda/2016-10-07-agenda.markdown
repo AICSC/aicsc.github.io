@@ -1,39 +1,87 @@
+1. Call Meeting to Order
+2. Roll Call
+	(The Secretary & Treasurer will determine the number of paid, active members are present out of those on record. A majority quorum must be established to hold a bonafide meeting.)
+
+3. Adoption of Agenda
+	(The Committee will discuss this agenda and may choose to amend or edit the agenda. Upon conclusion of the discussion the Committee must adopt the agenda.)
+
+4. Adoption of Minutes
+	(The Committee will discuss those minutes and may choose to amend or edit the minutes. Upon conclusion of the discussion the Committee must adopt the minutes.)
+
+	1. This Committee will consider the adoption of the minutes from 9/16/2016.
+
+5. Public Comment
+	(The Chair will take public comment on any action items on this agenda. The time allowed for public comment shall not exceed five minutes. Speakers are limited to one minute.)
+
+6. Individual Reports
+	(The Chair shall recognize any executive officer of the Association, including the Advisor(s), to offer a report on official activities since the previous meeting and make any summary announcements deemed necessary for no longer than five minutes.)
+
+	1. Chair, President, Vananh Vo
+	1. ICC Representative, Alec Sherlock
+	1. Treasurer, Sarena Cerda
+	1. Advisor, Harold Mendoza and/or Richard Miles
+
+7. Unfinished Business
+	(Items listed in this agenda item have already been read or discussed once and thus are considered for approval of the committee. All agenda topics should be limited to 10 minutes, may be extended once for a specified time by 2/3 vote)
+
+	1. Ordering club shirts
+		1. Take orders for new members
+    2. ACTION: Final vote to determine Polos or T-Shirts
+    3. ACTION: 2nd reading and vote to amend Constitution (amendment resolution is attached to this agenda)
+
+8. New Business
+	(Items listed in this agenda item have not already been read or discussed once and thus are considered for approval of the committee. All agenda topics should be limited to 10 minutes, may be extended once for a specified time by 2/3 vote)
+
+	1. Fund raising idea discussion
+	1. Wufoo membership intake form discussion
+	1. A+ Certification Presentation from Ryan Wallace
+	1. Github, Jekyll, our Website and Coding Challenges presentation from Diego Diaz
+
+9. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+	* Planned breakout sessions for today:
+		Getting everyone registered on GitHub and added to the aicsc team.
+
+10. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)
+
 ---
-title: "Agenda" 
----
 
-### Call Meeting to Order
+## Agenda Supplement
 
-* Attendance
+#### Whereas,
+during the 2016/2017 school year inaugural meeting of the Computer Science Club held on 09/02/2016, a discrepance was found in the current Constitution regarding membership dues and voting;
 
-* Election: 
-  - Nominate Secretary 
-  - Nominate Treasurer
-  - Vote for Secretary
-  - Vote for Treasurer
+#### Whereas,
+dues were collected from several members present at the meeting to allow for those members to vote;
 
-* Introductions:
-  - Introduce board members
-  - Introduce members
-  - Introduce advisor(s)
+#### Whereas,
+a motion was made to suspend the rules to allow all persons in attendance to vote for the day;
 
-### New Business: 
+#### Whearas,
+that motion was voted upon by those present who had paid dues and carried by unanimous vote;
 
-* Reports:
-	- ICC Report
-  - Treasurer Report
-	
+#### Whereas,
+a motion was made on the floor during this meeting to add the position of Vice President to the existing Constitution and supply the needed change to the Constitution document;
 
-### 5-10-minute break
+#### Whereas,
+that motion was voted upon by all present and passed unanimously.
 
-### New Business continued:
+#### Be it resolved,
+that the Constitution of the Computer Science Club be amended by adding the following block after President and before Treasurer:
 
-* Code Camp – field trip
-  - Receive attendance count
-  - RSVP
-  
-* Club t-shirts 
+### Vice-President:
+The Vice-President serves as substitute for the President in the instance that the President is unable to conduct a meeting or other formal club function wherein their presence is necessary. Becomes the primary student contact for the StudOrg and the "external spokesperson" of the group who regularly interacts with other student organizations and College officials in the event that the President cannot fulfill their prescribed duties.The Vice-President is the first assistant to the President, liaison between the student organization and the advisor and other University or community contacts.
 
-* Public comments
+The responsibilities of the Vice-President include, but are not limited to:
 
-* Adjourne meeting
+* Providing guidance, direction, and support for the StudOrg in pursuit of its goals and objectives.
+* Voting in cases where there is a tie if the President is not present and conducting the vote.
+* Chairing all StudOrg meetings when the president is unavailable to attend.
+* Assisting the President in overseeing the process of student organization event planning.
+* Working with the President and Secretary to maintain a current list of members of the StudOrg officers, advisor, and members.
+* Submitting all required paperwork for StudOrg renewal.
+* Holding a minimum of two meetings for the general membership per semester if the President is unable to carry out their prescribed duties.
+* Representing the StudOrg at official functions when the President is unavailable.
+* Assists the President in maintaining contact with the StudOrg advisor and the Office of Student Life.

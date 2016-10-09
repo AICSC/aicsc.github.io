@@ -59,7 +59,19 @@ Section 1. Computer Science Club will be governed by the following means:
    * Representing the StudOrg at official functions 
    * Maintains contact with the StudOrg advisor and the Office of Student Life 
  
- 
+**Vice-President**:
+The Vice-President serves as substitute for the President in the instance that the President is unable to conduct a meeting or other formal club function wherein their presence is necessary. Becomes the primary student contact for the StudOrg and the "external spokesperson" of the group who regularly interacts with other student organizations and College officials in the event that the President cannot fulfill their prescribed duties.The Vice-President is the first assistant to the President, liaison between the student organization and the advisor and other University or community contacts.
+
+* The responsibilities of the Vice-President include, but are not limited to:
+  * Providing guidance, direction, and support for the StudOrg in pursuit of its goals and objectives.
+  * Voting in cases where there is a tie if the President is not present and conducting the vote.
+  * Chairing all StudOrg meetings when the president is unavailable to attend.
+  * Assisting the President in overseeing the process of student organization event planning.
+  * Working with the President and Secretary to maintain a current list of members of the StudOrg officers, advisor, and members.
+  * Submitting all required paperwork for StudOrg renewal.
+  * Holding a minimum of two meetings for the general membership per semester if the President is unable to carry out their prescribed duties.
+  * Representing the StudOrg at official functions when the President is unavailable.
+  * Assists the President in maintaining contact with the StudOrg advisor and the Office of Student Life. 
  
 **Treasurer**: The Treasurer (chief financial officer) manages the financial matters of the StudOrg. The treasurer should keep the officers and members informed about the student organization’s financial activities.  
 
@@ -194,5 +206,7 @@ Constitutions may also include a “Provision for By-Laws”; Article or a claus
 
 * The Web Page Submissions Committee shall be comprised of the officers who will select appropriate submissions for           inclusion  on the Student Organization Web Page. 
 * The officers shall be empowered to select a member to sit on the Web Page Submissions Committee. 
-* The time and place of regular meetings may be changed by vote of the membership. 
- 
+* The time and place of regular meetings may be changed by vote of the membership.
+
+--- 
+**Constitution last amended by unopposed motion on 10/07/2016 - inserted Vice President description**

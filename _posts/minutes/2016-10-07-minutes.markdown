@@ -1,0 +1,114 @@
+&nbsp;&nbsp;&nbsp;Listen to this meeting [here:](https://fccdl.in/iPvoj2r1R)
+
+1. Call Meeting to Order
+	* Meeting Called to order at 1:03 PM
+2. Roll Call
+	* With 13 paid members present, the meeting is a bona fide meeting
+	* Total attendance 20 
+3. Adoption of Agenda
+	* Question from Alec regarding legitimacy of vote. 
+	* Clarification and validation made by member entering quorum.
+	* Without exception the agenda is adopted
+
+4. Adoption of Minutes
+	
+	1. This Committee will consider the adoption of the minutes from 9/16/2016.
+		* Motion by Chad Hidalgo to add specific link to audio recording passed without objection
+		
+5. Public Comment
+	* No public comment offered
+
+6. Individual Reports
+	
+	1. Chair, President, Vananh Vo
+		* Grant approved for travel
+	1. ICC Representative, Alec Sherlock
+		* NO ICC Report
+	1. Treasurer, Sarena Cerda
+		* Deposit made to account balance stands at $629.15
+	1. Advisor, Harold Mendoza and/or Richard Miles
+		* No Advisor Report
+		
+7. Unfinished Business
+	
+   1. Ordering club shirts
+      1. Take orders for new members
+      2. ACTION: Final vote to determine 
+	  [Polos or T-Shirts](https://docs.google.com/document/d/1yDrCsKYnoB-00DR8GVowK0qwlq9z5ZUKd3SvqF4nZdQ/edit)
+		* Discussion opened on options for shirt design
+		
+		**Vote to determine Polos or T-Shirts**
+		* Polos : 14
+		* T-Shirts :0
+		* With 14 votes for Polos and 0 votes for t-shirts, the selection will be limited to the Polo options
+		
+		**Vote to determine which Polo shirt option will be adopted for the club shirt
+		* Option 1: Dark Blue Polo - 2
+		* Option 2: Black Polo - 11
+		* Option 3: Maroon Polo - 2
+		* Receiving 11 votes, the Black Polo shirt is the choice made by vote for the new club shirts.
+   2. ACTION: 2nd reading and vote to amend Constitution
+   
+	* Motion to amend by inserting the following block of text between President and Treasurer:
+	
+	**Vice-President**: The Vice-President serves as substitute for the President in the instance that the President is unable to conduct a meeting or other formal club function wherein their presence is necessary. Becomes the primary student contact for the StudOrg and the "external spokesperson" of the group who regularly interacts with other student organizations and College officials in the event that the President cannot fulfill their prescribed duties.The Vice-President is the first assistant to the President, liaison between the student organization and the advisor and other University or community contacts.
+	* The responsibilities of the Vice-President include, but are not limited to:
+		* Providing guidance, direction, and support for the StudOrg in pursuit of its goals and objectives.
+		* Voting in cases where there is a tie if the President is not present and conducting the vote.
+		* Chairing all StudOrg meetings when the president is unavailable to attend.
+		* Assisting the President in overseeing the process of student organization event planning.
+		* Working with the President and Secretary to maintain a current list of members of the StudOrg officers, advisor, and members.
+		* Submitting all required paperwork for StudOrg renewal.
+		* Holding a minimum of two meetings for the general membership per semester if the President is unable to carry out their prescribed duties.
+		* Representing the StudOrg at official functions when the President is unavailable.
+		* Assists the President in maintaining contact with the StudOrg advisor and the Office of Student Life.	
+		
+	Seeing no objection the Constitution will be amended as stated previously
+	
+8. New Business
+
+	1. Fund raising idea discussion
+		* Several ideas were expressed including:		
+			+ Fast food fund raising (eg. Chipotle Panda Tooti Frooti), 
+			+ campus bake sales,
+			+ video game (how to limit time is a concern), 
+			+ League of Legends party with cover fee, 
+			+ pizza and soda at lunch time, 
+			+ popcorn, 
+			+ snow cones
+		* How much are we willing to spend?
+		* Members Contribute money towards baked goods if they can't bake
+		* Four Weeks remaining until trip, multiple fund raisers needed
+		
+		**Time expired, motion to extend for up to 10 minutes passed without objection**
+		* Reserve Popcorn and Snow Cone for Tuesday 10/18/13 vote approved 15
+		* Start paperwork Bake Sale vote approved 14
+		* Start paperwork for Pizza sale vote approved 13
+		* Start paperwork for game night League of Legends vote approved 15
+	
+ 	2. Wufoo membership intake form discussion
+		* Downside, processed at the end of semester.
+		* Upside, allows credit card payment
+		* Move toward not relying on membership dues in account to fund activities.
+		* Cash can still be used.
+		* Vananh, states not knowing what our balance is taking away from Treasurer
+		* Creating additional bookkeeping for the Treasurer.
+		* Motion to revisit this discussion at the end of the semester
+		* With no objection this discussion will be postponed until the end of the semester.
+	
+	3. A+ Certification Presentation from Ryan Wallace
+		* [refer to recording](https://fccdl.in/iPvoj2r1R)
+	4. Github, Jekyll, our Website and Coding Challenges presentation from Diego Diaz
+		* [refer to recording](https://fccdl.in/iPvoj2r1R)
+
+9. Comments and Announcements
+	* Timing problem with paperwork, popcorn/snow cones delayed until 10/18/2016
+	* Fresno Valley Dev Fest on Slack reminder
+	* "Business Plan" to be developed regarding pizza/drink sale on next agenda.
+	* IEM Oakland
+	* Planned breakout sessions for today:
+		Getting everyone registered on GitHub and added to the aicsc team.
+
+10. Adjournment
+	Meeting adjourned at 2:20 
+

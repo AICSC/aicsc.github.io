@@ -38,11 +38,13 @@
 		* Discussion opened on options for shirt design
 		
 		**Vote to determine Polos or T-Shirts**
+		
 		* Polos : 14
-		* T-Shirts :0
+		* T-Shirts : 0
 		* With 14 votes for Polos and 0 votes for t-shirts, the selection will be limited to the Polo options
 		
-		**Vote to determine which Polo shirt option will be adopted for the club shirt
+		**Vote to determine which Polo shirt option will be adopted for the club shirt**
+		
 		* Option 1: Dark Blue Polo - 2
 		* Option 2: Black Polo - 11
 		* Option 3: Maroon Polo - 2
@@ -52,6 +54,7 @@
 	* Motion to amend by inserting the following block of text between President and Treasurer:
 	
 	**Vice-President**: The Vice-President serves as substitute for the President in the instance that the President is unable to conduct a meeting or other formal club function wherein their presence is necessary. Becomes the primary student contact for the StudOrg and the "external spokesperson" of the group who regularly interacts with other student organizations and College officials in the event that the President cannot fulfill their prescribed duties.The Vice-President is the first assistant to the President, liaison between the student organization and the advisor and other University or community contacts.
+	
 	* The responsibilities of the Vice-President include, but are not limited to:
 		* Providing guidance, direction, and support for the StudOrg in pursuit of its goals and objectives.
 		* Voting in cases where there is a tie if the President is not present and conducting the vote.
@@ -81,12 +84,13 @@
 		* Four Weeks remaining until trip, multiple fund raisers needed
 		
 		**Time expired, motion to extend for up to 10 minutes passed without objection**
+		
 		* Reserve Popcorn and Snow Cone for Tuesday 10/18/13 vote approved 15
 		* Start paperwork Bake Sale vote approved 14
 		* Start paperwork for Pizza sale vote approved 13
 		* Start paperwork for game night League of Legends vote approved 15
 	
- 	2. Wufoo membership intake form discussion
+	2. Wufoo membership intake form discussion
 		* Downside, processed at the end of semester.
 		* Upside, allows credit card payment
 		* Move toward not relying on membership dues in account to fund activities.

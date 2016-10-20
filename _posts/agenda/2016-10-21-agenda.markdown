@@ -1,0 +1,46 @@
+1. Call Meeting to Order
+
+2. Roll Call
+	(The Secretary & Treasurer will determine the number of paid, active members are present out of those on record. A majority quorum must be established to hold a bonafide meeting.)
+
+3. Adoption of Agenda
+	(The Committee will discuss this agenda and may choose to amend or edit the agenda. Upon conclusion of the discussion the Committee must adopt the agenda.)
+
+4. Adoption of Minutes
+	(The Committee will discuss those minutes and may choose to amend or edit the minutes. Upon conclusion of the discussion the Committee must adopt the minutes.)
+
+	1. This Committee will consider the adoption of the minutes from 10/07/2016.
+
+5. Public Comment
+	(The Chair will take public comment on any action items on this agenda. The time allowed for public comment shall not exceed five minutes. Speakers are limited to one minute.)
+
+6. Individual Reports
+	(The Chair shall recognize any executive officer of the Association, including the Advisor(s), to offer a report on official activities since the previous meeting and make any summary announcements deemed necessary for no longer than five minutes.)
+
+	1. Chair, President, Vananh Vo
+	1. ICC Representative, Alec Sherlock
+	1. Treasurer, Sarena Cerda
+	1. Advisor(s)
+
+7. Unfinished Business
+	(Items listed in this agenda item have already been read or discussed once and thus are considered for approval of the committee. All agenda topics should be limited to 10 minutes, may be extended once for a specified time by 2/3 vote)
+	
+	1. Ordering club shirts
+	2. Club Trip
+	3. Fundraising idea discussion
+
+8. New Business
+	(Items listed in this agenda item have not already been read or discussed once and thus are considered for approval of the committee. All agenda topics should be limited to 10 minutes, may be extended once for a specified time by 2/3 vote)
+	
+	1. Reintroduce coding challenges
+	1. Github, Jekyll, our Website and Coding Challenges presentation from Diego Diaz
+
+9. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+	* Planned breakout sessions for today:
+	
+		1. Posters for Fundraiser
+
+10. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

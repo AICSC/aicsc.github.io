@@ -1,0 +1,66 @@
+1. Call Meeting to Order
+	* Meeting Called to order at 1:05 PM
+2. Roll Call
+
+3. Public Comment
+	* No public comment offered
+
+4. Individual Reports
+	
+	1. Chair, President, Vananh Vo
+		* Update on Trip and Polo-shirt order.
+	1. ICC Representative, Alec Sherlock
+		* NO ICC Report
+	1. Treasurer, Sarena Cerda
+		* Reported the results of our last fund raiser that took place on 10-18-16
+			- The club raised $77.44 in profits by selling cotton candy and snow cones on campus.
+	1. Advisor, Harold Mendoza and/or Richard Miles
+		* No Advisor Report
+		
+5. Unfinished Business
+	
+   1. Ordering club shirts
+      1. In order to begin production of polo shirts for the club, the club would be required to pay 50% upfront
+      and finally pay the remaining 50% when the order is complete.
+      2. A club vote was called to allow for club officers to ask for 50% of the amount to come out the club account 
+      to begin production while we wait for club members to pay for their T-shirts. When half of the T-shirts are sold, it shall
+      replace the amount removed from club funds and shall not effect the amount that will go towards to club trip.
+		
+		**Vote to take out 50% of the cost from club funds to begin production was called**
+			
+		- The vote passed by unanimous decision. 
+			 
+   2. Club Trip update:
+		1. Club paperwork is almost complete and will be turned in by Friday October 28th 2016.
+		2. The department of student life will hold off on transferring the club's 50% of the trip
+		cost from the club account when the club has raised the full 50% giving the club enough time
+		to raise their agreed 50% without punishing them for not having their 50% before the trip date.
+		
+	3. Fundraiser continued:
+		1. 2 upcoming fundraiser dates: 10-25-16, 10-27-16 Selling cotton candy and snow cones. 
+		2. Help will be needed. Sign up sheets were available at the end of the meeting to sign up to help.
+   
+   
+	
+6. New Business
+
+	1. Diego reported the line up of guest speakers for the month of November.
+		- Skylar Payne, a BC alumni, former Google software engineer, and current LinkedIn software engineer
+		will be coming in November 4th to talk about the interview process, how he got to Google, and CS topics 
+		that he worked with most while working at Google. 
+		- Professor Miles will be giving a talk about the field of Computer Science and the job interview process
+		November 18th (update)
+	
+	2. Diego reintroduced the idea of coding challenges. 
+		- The club showed interest in starting coding challenges up again.
+	
+	3. Diego gave a small presentation on the topics of Jekyll and Github. 
+
+7. Comments and Announcements
+	* No comments.
+
+8. Adjournment
+	* Meeting adjourned at 2:26
+	
+9. Breakout session:
+	1. Students got practice with Github.  

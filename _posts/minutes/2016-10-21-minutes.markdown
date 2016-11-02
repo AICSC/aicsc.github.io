@@ -60,7 +60,7 @@
 	* No comments.
 
 8. Adjournment
-	Meeting adjourned at 2:26
+	* Meeting adjourned at 2:26
 	
 9. Breakout session:
 	1. Students got practice with Github.  

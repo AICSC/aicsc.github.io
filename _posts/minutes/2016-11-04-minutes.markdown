@@ -1,0 +1,63 @@
+1. Call Meeting to Order
+	* Meeting Called to order at 1:11 PM
+2. Roll Call
+	* 12 paid members were present to hold a bonafide meeting. 
+
+3. Public Comment
+	* No public comment offered
+
+4. Individual Reports
+	
+	1. Chair, President, Vananh Vo
+		* Club polo shirts will not be in on time.
+		* XXL polo shirts will cost an extra $3 for a total of $18
+		* Polo shirts of any other size will cost $15
+	1. ICC Representative, Alec Sherlock
+		* NO ICC Report
+	1. Treasurer, Sarena Cerda
+		* Haley Crews filled in for Sarena with the Treasurer report. 
+		* The treasure report is not up to date as it didn't have
+		the 10-25 and 10-27 fundraiser reported.
+		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+
+	1. Advisor, Harold Mendoza and/or Richard Miles
+		* No Advisor Report
+		
+5. Unfinished Business
+
+	1. Club Trip Discussion:
+		* The costs of Hotel rooms and rental are more than the club funds could afford.
+		* Concern were raised of not having enough money for the club to fundraise or 
+		thrive for the next semester.
+		* Proposed a few solutions to avoid this:
+			1. Each member going on the trip could donate $10. 
+			2. If two members volunteer driving their personal vehicle, the rental 
+			wouldn't be needed, cutting the cost by nearly $400.
+			3. Professor Rangel suggested cutting the hotel rooms and going 1 day would
+			avoid all these issues.
+		* Students agreed a one day visit and returning home the same day would be fine (not official yet)
+			 
+	2. Fundraiser Ideas continued:
+		* It was noted that the club cannot sell what the cafeteria are selling.
+		* Sugar free brownies.
+		* Pokemon themed cookies.
+		* raffle prizes(related to computer science) would be a neat addition during the bake sale.
+		* Help is needed for the fundraisers.
+			1. Making posters to advertise our funderaiser.
+			2. Members Volunteer time to sell baked goods.
+		* Ideas of talking to fast food chains were brought up as a good near future fundraiser.
+		
+6. Comments and Announcements
+	* No comments.
+
+7. Break out session:
+	* Guest speaker Skylar Payne, BC Alumni, Former Google software engineer, current LinkedIn software engineer.
+
+8. New Business
+	* 3 new programming challenges have been put up for the club. 
+		* [Coding Challenges:](https://github.com/AICSC/Coding-Challenges/blob/master/2016/11-04/Challenge.md)
+	* Upcoming Electric Bookworm Hackathon at CSUB November 18.
+		* [Hackathon information](https://www.facebook.com/events/1162885910437314/)
+
+9. Adjournment
+	* Meeting adjourned at 2:54

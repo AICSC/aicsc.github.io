@@ -1,0 +1,54 @@
+Call Meeting to Order
+	* Meeting Called to order at 1:07 PM
+2. Roll Call 
+
+3. Public Comment
+	* No public comment offered
+
+4. Individual Reports
+	1. Chair, President, Vananh Vo
+	1. Vice-President, Diego Diaz
+		- Announcement about the library Hackathon at CSUB
+	1. Treasurer, Sarena Cerda
+		No Treasurer report available.
+		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+	1. Advisor, Harold Mendoza, Richard Miles, or Eddie Rangel
+		* Guest speaker Troye Miles to come to Bakersfield to hold a Javascript meet up. 
+			- Location or date has not been announced but to possibly take place at MESH or CSUB.
+		* Western Collegiate Cyber Defense Competition
+			- Hacking competition (much like capture the flag)
+			- Too late for BC to compete this year, but may be possible to form a team next semester
+			if it gains enough student interest.
+			- [Link to their website](www.wrccdc.org)
+		
+5. Unfinished Business
+	1. Fundraiser: 
+		* November 19th and 20th - Baking and making posters
+		* November 21st and 22nd - Selling goods
+			- volunteers needed: Cashier and others to sell baked goods.
+			- Need people to be present throughout the fundraiser.
+		
+	2. Club Polo shirt order:
+		* Allocating $ for T-shirt needed:
+		* Allocation of $446.82 from club account 2300.82 for the purchase of club polo shirts
+		for all members of the computer science club in which have paid the price of $15 each.
+		** vote taken and passed with unanimous vote. **
+		
+		* Extra Polo shirts will be for sell (first come first served).
+	3. Nominate and Vote for Treasurer and Secretary:
+		* Gabe and Brian nominated for Treasurer:
+		* Alan Marin nominated for Secretary:
+			- Gabe voted into the position of club Treasurer
+			- Alan voted into the position of club Secretary
+
+6. Break out session:
+	* Guest speaker Professor Miles:
+	
+7. Comments and Announcements
+	* More information about the Western Collegiate Cyber Defense Competition provided by Professor Rangel. 
+	
+8. New Business
+	* All business not discussed during meeting was tabled until next meeting 12-02-16
+	
+9. Adjournment
+	* Meeting adjourned at 3:00 PM

@@ -1,14 +1,16 @@
-Call Meeting to Order
+1. Call Meeting to Order
 	* Meeting Called to order at 1:07 PM
+	
 2. Roll Call 
 
 3. Public Comment
-	* No public comment offered
-
+	* No public comments
 4. Individual Reports
 	1. Chair, President, Vananh Vo
 	1. Vice-President, Diego Diaz
 		- Announcement about the library Hackathon at CSUB
+	1. ICC Representative, Alec Sherlock
+		* No ICC report.
 	1. Treasurer, Sarena Cerda
 		No Treasurer report available.
 		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
@@ -32,7 +34,8 @@ Call Meeting to Order
 		* Allocating $ for T-shirt needed:
 		* Allocation of $446.82 from club account 2300.82 for the purchase of club polo shirts
 		for all members of the computer science club in which have paid the price of $15 each.
-		** vote taken and passed with unanimous vote. **
+		
+		**Vote taken and passed with unanimous vote**
 		
 		* Extra Polo shirts will be for sell (first come first served).
 	3. Nominate and Vote for Treasurer and Secretary:

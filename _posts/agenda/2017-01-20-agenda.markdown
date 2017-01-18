@@ -1,0 +1,44 @@
+1. Call Meeting to Order
+
+2. Roll Call
+
+3. Public Comment
+
+4. Individual Reports
+	1. Chair, President, Vananh Vo
+		* Presentation about New Officers/Elections
+	1. Vice President, Diego Diaz
+	1. ICC Representative, Alec Sherlock
+	1. Treasurer, Gabe Fortier
+		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+	1. Advisor(s)
+	
+5. Unfinished Business
+	* Club Shirts for Members who reserved
+
+6. New Business
+	* ISIT Committee student representative
+		- May be held as a board position of the computer science club
+		- May be merged in with ICC's jobs and duties in the case of no member available to sit on the committee
+		
+	* (Powerpoint overview of spring semester)
+		- Project Meeting
+		- Hackathon
+		- Guest Speakers
+		- Club Trip(s)
+		- Club Projects
+		- Coding Challenges
+		- Building a competitive team to compete in the WRCCDC.
+		- Funding
+
+7. Break-out Session
+	* Scott Burton Mesh Presentation
+	 
+8. Coding Challenge
+	* Present new coding challenges
+		
+10. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+11. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

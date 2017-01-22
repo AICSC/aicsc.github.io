@@ -1,0 +1,56 @@
+[SPRING2017CALENDAR](https://docs.google.com/document/d/1rA9dWxV0EfTw5nmmnQxV1iPBzoJ91hjVhNhvAv7QS8g/edit)
+1. Call Meeting to Order
+	* Meeting Called to order at 1:03 PM 
+2. Roll Call
+	* Introduction of Officers and Club Members
+3. Public Comment
+	* No Public Comments
+4. Individual Reports
+	1. Chair, President, Vananh Vo
+		* Presentation about New Officers/Elections
+	1. Vice President, Diego Diaz
+		* No report
+	1. ICC Representative, Alec Sherlock
+		* No ICC Report
+	1. Treasurer, Brian Sullivan
+		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+	1. Advisor(s)
+	
+5. Unfinished Business
+	* Club Shirts for Members who reserved
+		- Extra Shirts Available. (12)
+
+6. New Business
+	* ISIT Committee student representative
+		- May be held as a board position of the computer science club
+		- May be merged in with ICC's jobs and duties in the case of no member available to sit on the committee
+		
+	* [Powerpoint overview of spring semester](https://docs.google.com/presentation/d/1UMJCgNJ0xZrZerU36KpzgeDWMIxorbYpsI2EylUDlmE/edit#slide=id.p4)
+		- Project Meeting
+		- Hackathon
+		- Guest Speakers
+		- Club Trip(s)
+		- Club Projects
+		- Coding Challenges
+		- Building a competitive team to compete in the WRCCDC.
+		- Funding
+	 
+7. Coding Challenge
+	* Present new coding challenges
+		[Coding Challenges](https://github.com/AICSC/Coding-Challenges)
+	* Members who wish to work on a coding challenge may contact [Alan]() to get started.
+	
+8. Break-out Session
+	* Eddie Rangel WRCCDC Presentation:
+		- [WRCCDC Website] (http://www.wrccdc.org)
+		- [CyberCompex Website](https://www.cybercompex.org)
+		- We are planning on competing Next Year 2018
+	* Scott Burton Mesh Presentation
+		- [MESH Website] (http://www.meshcowork.com/en)
+		- MESH Offers Student Discounts: $29.99
+		
+9. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+10. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

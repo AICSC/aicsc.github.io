@@ -1,0 +1,54 @@
+[SPRING2017CALENDAR](https://docs.google.com/document/d/1rA9dWxV0EfTw5nmmnQxV1iPBzoJ91hjVhNhvAv7QS8g/edit)
+
+1. Call Meeting to Order
+	* Meeting Called to order at 1:08 P.M.
+2. Roll Call
+
+3. Public Comment
+	* No Public Comments
+4. Individual Reports
+	1. Chair, President, Vananh Vo
+		* Presentation about New Officers/Elections
+	1. Vice President, Diego Diaz
+		* Announced that Meeting will not be held on Campus February 17th 2017, Will instead be held at MESH.
+	1. ICC Representative, Alec Sherlock
+		* Soft Grant Announcement - We got it! :)
+	1. Treasurer, Brian Sullivan
+		* [Treasurer Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+	1. Advisor(s)
+	
+5. Unfinished Business
+	* ISIT Commitee Student Representative
+		- Gabe Fortier has been announced to be in the process of acquiring the position.
+
+6. New Business
+	* Fundraising
+		- Chipotle Fundraiser will be held on March 3rd, 2017 Starting at 3 PM.
+	* Discuss Web Development or App Development for Project #2
+		- Discussed a push for web development project due to Professor Miles teaching an app development course, which may be of conflict of interest.
+		- Officially decided to pursue Web Development/E-Portfolio for Project #2
+		
+	* ThinkTank Tuesday
+		- Tuesday February 14th 2017 University of Pheonix Bakersfield Learning Center 4900 California Avenue Bakersfield, CA 93309
+		- Hosted by KIT, TTT is a local tech community discussion meeting for professionals and students alike. Hope to see more students attend all meetings.
+	* Matt Jimenez Presentation on FreeCodeCampxMESH Meetings
+		- Slack Channel: Bakersfield-fcc.slack.com
+		- Those interested may contact Matt Jimenez on Slack for more information.
+		- [FreeCodeCamp](www.freecodecamp.com)
+	 
+7. Coding Challenge
+	* Present new coding challenges
+		[Coding Challenges](https://github.com/AICSC/Coding-Challenges)
+	* Members who wish to work on a coding challenge may contact [Alan](mailto:alan.marin1996@email.bakersfieldcollege.edu) to get started.
+	
+8. Break-out Session
+	* Gabe Fortier Quick Unity Presentation
+		- Formed new Teams and each Team Leader talked briefly about their project.
+	* David Lao Presentation
+		- CANCELLED, unfortunately due to scheduling conflicts.
+		
+9. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+10. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

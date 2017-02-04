@@ -34,7 +34,7 @@
 	* Matt Jimenez Presentation on FreeCodeCampxMESH Meetings
 		- Slack Channel: Bakersfield-fcc.slack.com
 		- Those interested may contact Matt Jimenez on Slack for more information.
-		- [FreeCodeCamp](www.freecodecamp.com)
+		- [FreeCodeCamp](https://www.freecodecamp.com/)
 	 
 7. Coding Challenge
 	* Present new coding challenges

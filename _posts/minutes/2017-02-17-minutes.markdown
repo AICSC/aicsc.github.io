@@ -34,7 +34,7 @@
 		- Split up into Groups and have members work on pages on the website.
 		- Members should also come to the meetings and just work on their projects.
 	* Bakersfield College Hackathon Presentation by Diego Diaz
-		- [BCINNOVATES.COM](bcinnovates.com)
+		- [BCINNOVATES.COM](https://events.followthefox.org/)
 		
 9. Coding Challenges
 	* Revise The Coding Challenges part of the meeting.

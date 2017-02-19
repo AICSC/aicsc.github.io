@@ -1,0 +1,49 @@
+[SPRING2017CALENDAR](https://docs.google.com/document/d/1rA9dWxV0EfTw5nmmnQxV1iPBzoJ91hjVhNhvAv7QS8g/edit)
+
+* WE HAD 2/17/2017's CLUB BUSINESS MEETING AT MESH COWORKING SPACE: 2005 Eye St #4, Bakersfield, CA 93301
+
+1. Call Meeting to Order
+	* Meeting Called to Order 1:16
+
+2. Roll Call
+	
+3. Public Comment
+
+4. Individual Reports
+	1. Chair, President, Vananh Vo
+	1. Vice President, Diego Diaz
+	1. ICC Representative, Alec Sherlock
+	1. ISIT Commitee Student Representative, Gabe Fortier
+		- Since Measure J passed, there will be WiFi Upgrades to the BC Campus.
+		- Integrating Linux with the Windows Computers in the Business Building.
+	1. Treasurer, Brian Sullivan
+		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+	1. Advisor(s)
+	
+5. Unfinished Business
+ 
+6. New Business
+	* Game Jam Cancelled
+	* Update on Chipotle Fundraiser 
+		- [FLYER](https://drive.google.com/file/d/0B39ozvkKKKxEZFpJQ2JkeU9aMWc/view?usp=sharing)
+		- Will happen on March 3rd 2017 4PM - 9PM, 4950 Stockdale Highway
+		- After Meeting the club will go to chipotle as a group.
+	* Updates on Trips
+		- No Updates on Trips
+	* Discussion on Web Development Project #2
+		- Split up into Groups and have members work on pages on the website.
+		- Members should also come to the meetings and just work on their projects.
+	* Bakersfield College Hackathon Presentation by Diego Diaz
+		- [BCINNOVATES.COM](bcinnovates.com)
+		
+9. Coding Challenges
+	* Revise The Coding Challenges part of the meeting.
+s
+8. Break-out Session
+	* KIT Presentation by Alyssa Haas
+
+9. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+10. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

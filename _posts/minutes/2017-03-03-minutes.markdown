@@ -1,0 +1,60 @@
+[SPRING2017CALENDAR](https://docs.google.com/document/d/1rA9dWxV0EfTw5nmmnQxV1iPBzoJ91hjVhNhvAv7QS8g/edit)
+
+1. Call Meeting to Order
+    * Meeting called to order at 1:10 PM
+
+2. Roll Call
+
+3. Public Comment
+    * No Public Comment
+
+4. Individual Reports
+    * Chair, President, Vananh Vo
+        - No report
+    * Vice President, Diego Diaz
+        - No report
+    * ICC Representative, Alec Sherlock
+        - No Report
+    * Treasurer, Brian Sullivan
+        - [Treasurer Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+    * ISIT Commitee Student Representative, Gabe Fortier
+        - No report
+    * Advisor(s)
+        - No report
+	
+5. Unfinished Business
+    * WRCCDC
+        - Working on creating a team for SPRING 2018 Competition.
+        - [WRCCDC](http://www.wrccdc.org/)
+    * Updates on Trips
+        - In talks of going on a series of small trips preferably in SoCal.
+    * Public Health BC Hackathon March 17th - 19th at Bakersfield College 
+        - For more information click on this [LINK](http://www.bcinnovates.com)
+    * Chipotle Fundraiser
+        - 4PM - 9PM Stockdale Highway
+        - We raised $168. Thanks for supporting the club guys!
+
+6. New Business
+    * Club Project #2
+        - Those members who don't want to work on the website. May work on their own project.
+    * KIT Volunteers
+	- Arduino/Raspberry PI Workshop
+        - Diego Diaz from KIT Community is looking for volunteers to hold workshops relating to a variety of topics.
+        - Contact diego on the computer science club slack channel if interested. 
+    * Voting on Fall 2017 Officers [CONSTITUTION](https://aicsc.github.io/constitution.html)
+        - President - Brian
+        - Vice President - Gabe
+        - ICC Representative - Arthur
+        - Treasurer - Noe
+        - Secretary - Alan
+        - Congratulations to all the new board members for the Fall 2017 - Spring 2018 semesters.
+
+7. Break-out Session
+    * Clayton Mongomery and Keith Presentation
+        - [KERNISSA](http://kern.issa.org/)
+
+8. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+9. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

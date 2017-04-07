@@ -7,13 +7,13 @@
 3. Public Comment
 
 4. Individual Reports
-	1. Chair, President, Vananh Vo
-	1. Vice President, Diego Diaz
-	1. ICC Representative, Alec Sherlock
-	1. Treasurer, Brian Sullivan
-		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
-    1. ISIT Committee Student Representative, Gabe Fortier
-	1. Advisor(s)
+	* Chair, President, Vananh Vo
+	* Vice President, Diego Diaz
+	* ICC Representative, Alec Sherlock
+	* Treasurer, Brian Sullivan
+		- [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+  * ISIT Committee Student Representative, Gabe Fortier
+	* Advisor(s)
 
 5. Unfinished Business
 

@@ -1,0 +1,47 @@
+[SPRING2017CALENDAR](https://docs.google.com/document/d/1rA9dWxV0EfTw5nmmnQxV1iPBzoJ91hjVhNhvAv7QS8g/edit)
+
+1. Call Meeting to Order
+
+2. Roll Call
+
+3. Public Comment
+
+4. Individual Reports
+	1. Chair, President, Vananh Vo
+	1. Vice President, Diego Diaz
+	1. ICC Representative, Alec Sherlock
+	1. Treasurer, Brian Sullivan
+		* [Treasure Report](https://docs.google.com/spreadsheets/d/1sJV4oCbnSzftXGi_gWaNpjXHrzWlW2MLvBfCd8kbTWQ/edit?usp=sharing)
+    1. ISIT Commitee Student Representative, Gabe Fortier
+	1. Advisor(s)
+	
+5. Unfinished Business
+    * WRCCDCC
+	* Updates on Trips
+	* BC Hackathon
+	* Chipotle Fundraiser
+
+6. New Business
+    * Club Project #2
+        - Those members who don't want to work on the website. May work on their own project.
+	* KIT Volunteers
+	    - Arduino/Raspberry PI Workshop
+    * Voting on Fall 2017 Officers [CONSTITUTION](https://aicsc.github.io/constitution.html)
+        - President
+        - Vice President
+        - ICC Representative
+        - Treasurer
+        - Secretary
+
+7. Coding Challenges
+    * New Coding Challenges Added
+        - [CODINGCHALLENGES](https://github.com/AICSC/Coding-Challenges)
+
+8. Break-out Session
+	* Clayton Mongomery and Keith Presentation
+
+9. Comments and Announcements
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+
+10. Adjournment
+	(Reminder, if you have any ideas or suggestions for the next meeting that were not mentioned today, you may email us at bccompscislub@gmail.com before Monday of the week of the next meeting)

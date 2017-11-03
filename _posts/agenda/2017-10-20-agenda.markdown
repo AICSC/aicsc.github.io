@@ -1,3 +1,6 @@
+
+Agenda for 10/20/2017
+
 1. Call Meeting to Order
 
 2. Roll Call
@@ -9,18 +12,29 @@
 	* Vice President, Gabe Fortier
 	* ICC Representative, Tyler Fulinara
 	* Treasurer, Noe Ramirez
+
+        1. Treasurer report
+
 	* Advisor(s)
 
 5. Unfinished Business
     * None
     
 6. New Business
+
+    * Chemistry STEM  event participation
+
     * Chemistry STEM event participation
+
     * Panda fundraiser
     * Potential trip
     
 7. Break-out Session
+
+    * Hackathon Talk by Diego Diaz
+
     * Web development by Tyler
+
     
 8. Comments and Announcements
 	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
